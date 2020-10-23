@@ -28,3 +28,4 @@ setup.log
 # Local OPAM switch
 _opam/
 *.pyc
+data/plezalisca_strik_1_test.html

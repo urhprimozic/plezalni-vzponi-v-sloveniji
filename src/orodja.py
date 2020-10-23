@@ -1,4 +1,4 @@
-# funcije iz predavanj, z rahlimi predelavami
+# funcije so iz predavanj, z rahlimi predelavami
 # spisal jih je prof. Matija Pretnar
 import csv
 import json
@@ -16,11 +16,23 @@ def pripravi_imenik(ime_datoteke):
     if imenik:
         os.makedirs(imenik, exist_ok=True)
 
+def shrani_spletno_stran_v_datoteko(url, ime_datoteke):
+    '''Vsebino strani na danem naslovu shrani na konec datoteke z danim imenom.'''
+    try:
+        print(f'Shranjujem {url} v {ime_datoteke}...', end='')
+        r = requests.get(url)
+    except requests.exceptions.ConnectionError:
+        print('stran ne obstaja!')
+    else:
+        pripravi_imenik(ime_datoteke)
+        with open(ime_datoteke, 'a', encoding='utf-8') as datoteka:
+            datoteka.write(r.text)
+            print('shranjeno!')
 
 def shrani_spletno_stran(url, ime_datoteke, vsili_prenos=False):
     '''Vsebino strani na danem naslovu shrani v datoteko z danim imenom.'''
     try:
-        print(f'Shranjujem {url} ...', end='')
+        print(f'Shranjujem {url} v {ime_datoteke}...', end='')
         sys.stdout.flush()
         if os.path.isfile(ime_datoteke) and not vsili_prenos:
             print('shranjeno že od prej!')

@@ -1,7 +1,7 @@
 # iz 8a.nu/ascents povleče JSON s podatki
 import orodja
-import argparse
-import sys
+# import argparse
+# import sys
 import os
 import logging
 velikost_strani = 1000
@@ -27,7 +27,7 @@ def plezalisca():
         url = f'https://www.8a.nu/crags/bouldering/slovenia?page={i}'
         orodja.shrani_spletno_stran_v_datoteko(url, datoteka)
 
-    
+
 
 # pomojem bo 50 000 vnosov čez glavo
 # for stran in range(alpha, omega):

@@ -1,0 +1,902 @@
+[
+    {
+        "ime": "Trenta",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/trenta/",
+        "stevilo_vzponov": "435"
+    },
+    {
+        "ime": "Glence",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/glence/",
+        "stevilo_vzponov": "426"
+    },
+    {
+        "ime": "Oplotnica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/oplotnica/",
+        "stevilo_vzponov": "371"
+    },
+    {
+        "ime": "Vitovlje",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/vitovlje/",
+        "stevilo_vzponov": "354"
+    },
+    {
+        "ime": "Trnovo ob Soči",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/trnovo-ob-soci/",
+        "stevilo_vzponov": "333"
+    },
+    {
+        "ime": "Golobove pecine",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/golobove-pecine/",
+        "stevilo_vzponov": "264"
+    },
+    {
+        "ime": "Obalt",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/obalt/",
+        "stevilo_vzponov": "202"
+    },
+    {
+        "ime": "Jurgovo",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/jurgovo/",
+        "stevilo_vzponov": "201"
+    },
+    {
+        "ime": "Robanov kot",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/robanov-kot/",
+        "stevilo_vzponov": "173"
+    },
+    {
+        "ime": "Kamniska Bistrica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kamniska-bistrica/",
+        "stevilo_vzponov": "151"
+    },
+    {
+        "ime": "Hubelj",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/hubelj/",
+        "stevilo_vzponov": "142"
+    },
+    {
+        "ime": "Črnotiče",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/crnotice/",
+        "stevilo_vzponov": "134"
+    },
+    {
+        "ime": "Zalog",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/zalog/",
+        "stevilo_vzponov": "119"
+    },
+    {
+        "ime": "Dovanova soteska",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/dovanova-soteska/",
+        "stevilo_vzponov": "90"
+    },
+    {
+        "ime": "Ljubelj",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/ljubelj/",
+        "stevilo_vzponov": "87"
+    },
+    {
+        "ime": "Podrta gora",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/podrta-gora/",
+        "stevilo_vzponov": "83"
+    },
+    {
+        "ime": "Mačkovec",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/mackovec/",
+        "stevilo_vzponov": "75"
+    },
+    {
+        "ime": "Podljubelj",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/podljubelj/",
+        "stevilo_vzponov": "70"
+    },
+    {
+        "ime": "Radovna",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/radovna/",
+        "stevilo_vzponov": "67"
+    },
+    {
+        "ime": "Marela",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/marela/",
+        "stevilo_vzponov": "66"
+    },
+    {
+        "ime": "Belca",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/belca/",
+        "stevilo_vzponov": "60"
+    },
+    {
+        "ime": "Orlovca",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/orlovca/",
+        "stevilo_vzponov": "53"
+    },
+    {
+        "ime": "Polog",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/polog/",
+        "stevilo_vzponov": "52"
+    },
+    {
+        "ime": "Col",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/col/",
+        "stevilo_vzponov": "50"
+    },
+    {
+        "ime": "Vipavska bela",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/vipavska-bela/",
+        "stevilo_vzponov": "42"
+    },
+    {
+        "ime": "Lucka bela",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/lucka-bela/",
+        "stevilo_vzponov": "36"
+    },
+    {
+        "ime": "Totem",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/totem/",
+        "stevilo_vzponov": "35"
+    },
+    {
+        "ime": "Kovk",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kovk/",
+        "stevilo_vzponov": "29"
+    },
+    {
+        "ime": "Živinski spodmol",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/zivinski-spodmol/",
+        "stevilo_vzponov": "29"
+    },
+    {
+        "ime": "Kotečnik",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kotecnik/",
+        "stevilo_vzponov": "29"
+    },
+    {
+        "ime": "Boka",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/boka/",
+        "stevilo_vzponov": "26"
+    },
+    {
+        "ime": "Kamnika Bistrica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kamnika-bistrica/",
+        "stevilo_vzponov": "24"
+    },
+    {
+        "ime": "kanjon",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kanjon/",
+        "stevilo_vzponov": "24"
+    },
+    {
+        "ime": "Pod kapelco",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/pod-kapelco/",
+        "stevilo_vzponov": "22"
+    },
+    {
+        "ime": "Topla",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/topla/",
+        "stevilo_vzponov": "22"
+    },
+    {
+        "ime": "Koca Mladika",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/koca-mladika/",
+        "stevilo_vzponov": "22"
+    },
+    {
+        "ime": "Gore",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/gore/",
+        "stevilo_vzponov": "21"
+    },
+    {
+        "ime": "Burjakove peci",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/burjakove-peci/",
+        "stevilo_vzponov": "20"
+    },
+    {
+        "ime": "Bistriski vintgar",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/bistriski-vintgar/",
+        "stevilo_vzponov": "17"
+    },
+    {
+        "ime": "Tekc",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/tekc/",
+        "stevilo_vzponov": "16"
+    },
+    {
+        "ime": "Krina Gora",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/krina-gora/",
+        "stevilo_vzponov": "15"
+    },
+    {
+        "ime": "Krnica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/krnica/",
+        "stevilo_vzponov": "15"
+    },
+    {
+        "ime": "crnotici",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/crnotici/",
+        "stevilo_vzponov": "14"
+    },
+    {
+        "ime": "Za mlinom",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/za-mlinom/",
+        "stevilo_vzponov": "14"
+    },
+    {
+        "ime": "Animal Area",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/animal-area/",
+        "stevilo_vzponov": "14"
+    },
+    {
+        "ime": "èrnotièe",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/ernotiee/",
+        "stevilo_vzponov": "14"
+    },
+    {
+        "ime": "Ter",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/ter/",
+        "stevilo_vzponov": "13"
+    },
+    {
+        "ime": "Raica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/raica/",
+        "stevilo_vzponov": "12"
+    },
+    {
+        "ime": "yugoskala",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/yugoskala/",
+        "stevilo_vzponov": "12"
+    },
+    {
+        "ime": "jugoslavija",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/jugoslavija/",
+        "stevilo_vzponov": "12"
+    },
+    {
+        "ime": "Misja Pec",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/osp-misja-pec/",
+        "stevilo_vzponov": "12"
+    },
+    {
+        "ime": "Sopota",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/sopota/",
+        "stevilo_vzponov": "11"
+    },
+    {
+        "ime": "Blato",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/blato/",
+        "stevilo_vzponov": "11"
+    },
+    {
+        "ime": "jugoskala",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/jugoskala/",
+        "stevilo_vzponov": "10"
+    },
+    {
+        "ime": "Dovzanova soteska",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/dovzanova-soteska/",
+        "stevilo_vzponov": "10"
+    },
+    {
+        "ime": "Mačkovc",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/mackovc/",
+        "stevilo_vzponov": "10"
+    },
+    {
+        "ime": "X",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/x/",
+        "stevilo_vzponov": "10"
+    },
+    {
+        "ime": "cernotice",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/cernotice/",
+        "stevilo_vzponov": "9"
+    },
+    {
+        "ime": "Krizna gora",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/krizna-gora/",
+        "stevilo_vzponov": "9"
+    },
+    {
+        "ime": "votla peč",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/votla-pec/",
+        "stevilo_vzponov": "9"
+    },
+    {
+        "ime": "Mislinja",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/mislinja/",
+        "stevilo_vzponov": "8"
+    },
+    {
+        "ime": "ožbalt",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/ozbalt/",
+        "stevilo_vzponov": "8"
+    },
+    {
+        "ime": "Unknown Crag",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/unknown-crag/",
+        "stevilo_vzponov": "8"
+    },
+    {
+        "ime": "Lipica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/lipica/",
+        "stevilo_vzponov": "8"
+    },
+    {
+        "ime": "Stara baba",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/stara-baba/",
+        "stevilo_vzponov": "7"
+    },
+    {
+        "ime": "Koritnica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/koritnica/",
+        "stevilo_vzponov": "7"
+    },
+    {
+        "ime": "Polog bolderland",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/polog-bolderland/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Sanabor",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/sanabor/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Križna",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/krizna/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Trebija",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/trebija/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Sahnhoff",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/sahnhoff/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Hum",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/hum/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Pod orlovco",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/pod-orlovco/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Yugo skala",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/yugo-skala/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Creta",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/creta/",
+        "stevilo_vzponov": "6"
+    },
+    {
+        "ime": "Osp",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/osp/",
+        "stevilo_vzponov": "5"
+    },
+    {
+        "ime": "Area 420",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/area-420/",
+        "stevilo_vzponov": "5"
+    },
+    {
+        "ime": "Greek block",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/greek-block/",
+        "stevilo_vzponov": "5"
+    },
+    {
+        "ime": "Ratitovec",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/ratitovec/",
+        "stevilo_vzponov": "5"
+    },
+    {
+        "ime": "Pasja ravan",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/pasja-ravan/",
+        "stevilo_vzponov": "5"
+    },
+    {
+        "ime": "Ratitovec",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/ratitovec/",
+        "stevilo_vzponov": "5"
+    },
+    {
+        "ime": "Pasja ravan",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/pasja-ravan/",
+        "stevilo_vzponov": "5"
+    },
+    {
+        "ime": "Pod kapelico",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/pod-kapelico/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Korosica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/korosica/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Podljubelj valey",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/podljubelj-valey/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Logarska dolina",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/logarska-dolina/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "yugoslavija",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/yugoslavija/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Logarska d.",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/logarska-d/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Bohinj",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/bohinj/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Porno Skala",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/porno-skala/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Sahnhof",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/sahnhof/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Trnovo",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/trnovo/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "šank",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/jurgovo-sank/",
+        "stevilo_vzponov": "4"
+    },
+    {
+        "ime": "Crni Kal",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/crni-kal/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "cernobil",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/cernobil/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Naklo",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/naklo/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Kam. Bistr.",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kam-bistr/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Dharma Land",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/dharma-land/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Pisani svet",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/pisani-svet/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Sele",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/sele/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Crni Kal",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/crni-kal/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Sele",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/sele/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "cernobil",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/cernobil/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Naklo",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/naklo/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Kam. Bistr.",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kam-bistr/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Soteska",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/soteska/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Robanov kot",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/robanov-kot-du7u8-verrev/",
+        "stevilo_vzponov": "3"
+    },
+    {
+        "ime": "Bistriki jarek",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/bistriki-jarek/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "josipdol",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/josipdol/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "The place",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/the-place/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Near ljubljana?",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/near-ljubljana/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "pod kapelco",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/votla-pec-pod-kapelco/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Lijak",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/lijak/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Idrijska Bela",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/idrijska-bela/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Lokavec",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/lokavec/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Jelovica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/jelovica/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Knežji kamen",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/knezji-kamen/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Kowkberg",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kowkberg/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Kamniska",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kamniska/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Rivčja jama",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/rivcja-jama/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Lake Bled",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/lake-bled/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Bistriki jarek",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/bistriki-jarek/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Near ljubljana?",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/near-ljubljana/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "pod kapelco",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/votla-pec-pod-kapelco/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Idrijska Bela",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/idrijska-bela/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Kowkberg",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kowkberg/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Kamniska",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kamniska/",
+        "stevilo_vzponov": "2"
+    },
+    {
+        "ime": "Èernotièe",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/eernotiee/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Podlubelj valey",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/podlubelj-valey/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Luknja crnotici",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/luknja-crnotici/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Jezersko",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/jezersko/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Nad glencam",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/nad-glencam/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Gole vrtace",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/gole-vrtace/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Kamn.bistr.",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kamn-bistr/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Rifnik",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/rifnik/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": " Obalt",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/fala-obalt/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Yugo Blok",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/yugo-blok/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Future land",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/future-land/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Dovanova sotseka",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/dovanova-sotseka/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Bela",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/bela/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Blegoš",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/blegos/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Crnotive",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/crnotive/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Zlebic",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/zlebic/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Dolge njive",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/dolge-njive/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Kamp Trenta",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kamp-trenta/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Mangart",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/mangart/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Kowk",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kowk/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Čaven",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/caven/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Vrtovin",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/vrtovin/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Jurkloster",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/jurkloster/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Storasta jama",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/storasta-jama/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Sivnica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/sivnica/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Kaca",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kaca/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Luska",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/luska/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Oboki",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/oboki/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Kotovo Sedlo",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kotovo-sedlo/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Kranjska Gora",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kranjska-gora/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "col",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/col-n7utu/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Stara Baba",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/stara-baba-ezjz8/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Bohinjska bela",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/bohinjska-bela/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Uiče",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/uice/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "cave of justice",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/cave-of-justice/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Perovo",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/perovo/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "luknja",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/luknja/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Ladja",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/ladja/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Letence",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/letence/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Hueco Wall",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/hueco-wall/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Lučka bella",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/lucka-bella/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Zlebic",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/zlebic/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Dolge njive",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/dolge-njive/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Mangart",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/mangart/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Čaven",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/caven/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Vrtovin",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/vrtovin/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Sivnica",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/sivnica/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Kaca",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kaca/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Luska",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/luska/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Oboki",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/oboki/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Kotovo Sedlo",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/kotovo-sedlo/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "Stara Baba",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/stara-baba-ezjz8/",
+        "stevilo_vzponov": "1"
+    },
+    {
+        "ime": "col",
+        "url": "https://www.8a.nu/crags/bouldering/slovenia/col-n7utu/",
+        "stevilo_vzponov": "1"
+    }
+]

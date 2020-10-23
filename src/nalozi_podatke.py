@@ -9,7 +9,7 @@ alpha = 10
 omega = 20
 korenina =  os.path.dirname(__file__)
 
-def plezalisca():
+def vsa_slovenska_plezalisca_in_balvanisca():
     '''
     Shrani htmlje iz https://www.8a.nu/crags/sportclimbing/slovenia?page=1
     '''    
@@ -28,6 +28,11 @@ def plezalisca():
         orodja.shrani_spletno_stran_v_datoteko(url, datoteka)
 
 
+def vsi_vzponi_v_plezaliscih():
+    '''
+    POZOR!
+    Potrebuje pripravljeni JSON datoteki plezalisca in balvanisca
+    '''
 
 # pomojem bo 50 000 vnosov čez glavo
 # for stran in range(alpha, omega):

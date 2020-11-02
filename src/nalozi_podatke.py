@@ -1,13 +1,14 @@
 # iz 8a.nu/ascents povleče JSON s podatki
 import orodja
-# import argparse
-# import sys
 import os
 import logging
+import json
+
 velikost_strani = 1000
 alpha = 10
 omega = 20
 korenina =  os.path.dirname(__file__)
+mapa_s_podatki = os.path.join(korenina, '../data')
 
 def vsa_slovenska_plezalisca_in_balvanisca():
     '''
@@ -28,11 +29,26 @@ def vsa_slovenska_plezalisca_in_balvanisca():
         orodja.shrani_spletno_stran_v_datoteko(url, datoteka)
 
 
-def vsi_vzponi_v_plezaliscih():
+datoteka_strik = os.path.join(mapa_s_podatki, 'plezalisca.json')
+datoteka_balvani = os.path.join(mapa_s_podatki, 'balvanisca.json')
+def vsi_vzponi_v_plezaliscih(datoteka_json):
     '''
-    POZOR!
-    Potrebuje pripravljeni JSON datoteki plezalisca in balvanisca
+    Gre skozi json datoteko in naloži vse vzpone.
     '''
+    with open(datoteka_json, 'r') as f:
+        seznam_plezalisc = json.load(f)
+    for plezalisce in seznam_plezalisc:
+        korenski_url = plezalisce['url'] + '/ascents'
+        # v imenih datoteke nočem šumnikov
+        # zato bom ime prebral iz spletnega naslova (tam jih zagotovo ni)
+        ime = plezalisce['url'].split('/')[-2]
+        #8a.nu ma itak shranjenih samo zadnjih 10 000 vzponov na plezališče.
+        if ime == 'osp-misja-pec':
+            continue #tega mam že blabla
+        for stran in range(1, 1000):
+            url = korenski_url + f'?page={stran}'
+            datoteka = os.path.join('../','data', f'vzponi_{ime}.html')
+            orodja.shrani_spletno_stran_v_datoteko(url, datoteka)
 
 # pomojem bo 50 000 vnosov čez glavo
 # for stran in range(alpha, omega):

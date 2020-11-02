@@ -16,3 +16,9 @@ ali pa po vseh userjih iz prvega dataseta, pa pri vsakem dobim vse vzpone. Tk re
 
 Pa vsa plezališča dobim na:
 https://www.8a.nu/crags/sportclimbing/slovenia
+
+# pridobivanje podatkov
+S prva sem podatke dobil preko strani 8a.nu/ascents (lepo v jsonih)
+Vendar sem dobil le 10 000 vzponov (rad bi jih več)
+Zato sem zregexiral vsa plezališča, in grem za vsakega dobit vse vzpone.
+Žal me 8a.nu pusti le to zadnjih 10 000 vzponov za plezališče. Vseeno ok, iz 2018 sem porišel na 2015, 5 let pa že mneki je.

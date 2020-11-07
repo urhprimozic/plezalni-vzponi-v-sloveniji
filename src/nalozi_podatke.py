@@ -38,14 +38,17 @@ def vsi_vzponi_v_plezaliscih(datoteka_json):
     with open(datoteka_json, 'r') as f:
         seznam_plezalisc = json.load(f)
     for plezalisce in seznam_plezalisc:
-        korenski_url = plezalisce['url'] + '/ascents'
+        korenski_url = plezalisce['url'] + 'ascents'
         # v imenih datoteke nočem šumnikov
         # zato bom ime prebral iz spletnega naslova (tam jih zagotovo ni)
         ime = plezalisce['url'].split('/')[-2]
         #8a.nu ma itak shranjenih samo zadnjih 10 000 vzponov na plezališče.
-        if ime == 'osp-misja-pec':
-            continue #tega mam že blabla
-        for stran in range(1, 1000):
+        if ime in ['osp-misja-pec', 'kotecnik']:# te dva mam že
+            continue
+        
+        # 8a.nbu prikaže 10 vzponov na stran
+        stevilo_strani = min( int(plezalisce['stevilo_vzponov'].replace(' ', '')) // 10, 1000)
+        for stran in range(1, stevilo_strani):
             url = korenski_url + f'?page={stran}'
             datoteka = os.path.join('../','data', f'vzponi_{ime}.html')
             orodja.shrani_spletno_stran_v_datoteko(url, datoteka)

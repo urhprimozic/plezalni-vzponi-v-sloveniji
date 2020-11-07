@@ -29,3 +29,5 @@ setup.log
 _opam/
 *.pyc
 data/plezalisca_strik_1_test.html
+data/demo.html
+data/*.html

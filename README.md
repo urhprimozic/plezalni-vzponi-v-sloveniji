@@ -1,19 +1,18 @@
 # Plezalni vzponi v Sloveniji
-Analiziral bom zadnjih 100.000 zabeleženih vzponov v slovenskih plezališčih na strani [8a.nu](https://www.8a.nu/ascents). 
-(Ali pa mogoče 1000 vzponov na plezališče? Se še odločam).
-(oziroma: 100 vzponov v Sloveniji na uporabnika iz slovenije ?)
-## Zajeti podatki
-Za vsak vzpon bom zajel:
-- Uporabniško ime plezalca
-- Mesto uporabnika (Ljubljana ali Tržič...)
-- Ime smeri
-- Plezališče
-- Oceno smeri (težavnost)
-- Datum 
-- uporabnikovo oceno lepote smeri
-- potencialen komentar o smereh
 
-## Delovne hipoteze
+Analiziral bom plezalske vzpone v slovenskih plezališčih iz spletne strani [8a.nu](https://www.8a.nu).
+## Zajemanje podatkov
+Javascript na strani 8a.nu/ascents glede na zahtevane parametre vrne urejen JSON zadnjih 10.000 vzponov v Sloveniji. Žal to ni dovolj za dobro analizo, saj podatki ne sežejo dlje od leta 2018. Zato sem podatke dobil na nasilen način.
+
+### Zajete spletne strani in [regex](https://en.wikipedia.org/wiki/Inferno_(Dante)#Ninth_Circle_(Treachery))
+
+- [Seznam plezališč](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/data/plezalisca.json) sem pridobil s funkcijama [`vsa_slovenska_plezalisca_in_balvanisca()`](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/src/nalozi_podatke.py#L13) in [`strik_v_json`](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/src/parse_plezalisca.py#L13). 
+- Za vsako plezališče sem pridobil [html datoteko](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/data/vzponi_bohinjska-bela.html) z uporabo funkcije [`vsi_vzponi_v_plezaliscih()`](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/src/nalozi_podatke.py#L34) in izluščene podatke s pomočjo demonov, ki jih prikliče [`vzponi_strik_v_json_csv()`](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/src/parse_plezalisca.py#L72).
+
+Urejeni podatki so shranjeni v datoteki [vzponi_strik.csv](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/data/vzponi_strik.csv).
+
+
+## Delovne hipoteze TODO
 - Ob delovnih dneh je vzponov občutno manj
 - Ob delovnih dneh se več pleza v lokalnih plezališčih (imajo malo vzponov na sploh), kot pa v popularnih (veliko vzponov).
 - Ali obstaja povezava med številom vzponov na pogled (=v prvo) in posameznim plezališčem? 

@@ -138,6 +138,7 @@ def povezovalne_vzponi_strik(filename='vzponi_strik.json'):
     vzponi_z_indeksom = []
     plezalci = []
     plezalisca = []
+    smeri_plezalisca = []
     smeri = []
     for id, vzpon in enumerate(vzponi):
         # novi vzponi
@@ -147,7 +148,8 @@ def povezovalne_vzponi_strik(filename='vzponi_strik.json'):
         plezalci.append(
             {'uporabnik': vzpon['uporabnik'], 'plezalec': vzpon['plezalec'], 'id': id})
         plezalisca.append({'plezalisce': vzpon['plezalisce'], 'id': id})
-        smeri.append(
+        smeri.append( {'smer': vzpon['smer'], 'id': id})
+        smeri_plezalisca.append(
             {'smer-plezalisce': vzpon['smer'] + vzpon['plezalisce'], 'id': id})
 
     orodja.zapisi_json(vzponi_z_indeksom, os.path.join(
@@ -161,7 +163,10 @@ def povezovalne_vzponi_strik(filename='vzponi_strik.json'):
     orodja.zapisi_json(plezalisca, os.path.join(mapa_s_podatki, 'plezalisca.json'))
     orodja.zapisi_csv(plezalisca, ['plezalisce', 'id'], os.path.join(mapa_s_podatki, 'plezalisca.csv'))
 
+    orodja.zapisi_json(smeri_plezalisca, os.path.join(mapa_s_podatki, 'smeri_plezalisca.json'))
+    orodja.zapisi_csv(smeri_plezalisca, ['smer-plezalisce', 'id'], os.path.join(mapa_s_podatki, 'smeri_plezalisca.csv'))
+
     orodja.zapisi_json(smeri, os.path.join(mapa_s_podatki, 'smeri.json'))
-    orodja.zapisi_csv(smeri, ['smer-plezalisce', 'id'], os.path.join(mapa_s_podatki, 'smeri.csv'))
+    orodja.zapisi_csv(smeri, ['smer', 'id'], os.path.join(mapa_s_podatki, 'smeri.csv'))
     
 

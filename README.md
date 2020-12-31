@@ -1,7 +1,7 @@
 # Plezalni vzponi v Sloveniji
 
 Analiziral bom plezalske vzpone v slovenskih plezališčih iz spletne strani, ki zagotovo ni [8a.nu](https://www.8a.nu).
-=======
+
 Analiziral bom plezalske vzpone v slovenskih plezališčih iz spletne strani [8a.nu](https://www.8a.nu).
 
 [Analiza (link)](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/analiza.ipynb)

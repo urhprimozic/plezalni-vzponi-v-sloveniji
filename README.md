@@ -1,6 +1,12 @@
 # Plezalni vzponi v Sloveniji
 
+<<<<<<< HEAD
 Analiziral bom plezalske vzpone v slovenskih plezališčih iz spletne strani, ki zagotovo ni [8a.nu](https://www.8a.nu).
+=======
+Analiziral bom plezalske vzpone v slovenskih plezališčih iz spletne strani [8a.nu](https://www.8a.nu).
+
+[Analiza (link)](https://github.com/urhprimozic/plezalni-vzponi-v-sloveniji/blob/main/analiza.ipynb)
+>>>>>>> 8e6892e9cf77e943759a224ef7ccf237b65bcce8
 ## Zajemanje podatkov
 Javascript na strani 8a.nu/ascents glede na zahtevane parametre vrne urejen JSON zadnjih 10.000 vzponov v Sloveniji. Žal to ni dovolj za dobro analizo, saj podatki ne sežejo dlje od leta 2018. Zato sem podatke dobil na nasilen način *iz neke čist druge strani ki to dovoli v terms of service*
 

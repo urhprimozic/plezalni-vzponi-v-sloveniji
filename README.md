@@ -1,8 +1,8 @@
 # Plezalni vzponi v Sloveniji
 
-Analiziral bom plezalske vzpone v slovenskih plezališčih iz spletne strani [8a.nu](https://www.8a.nu).
+Analiziral bom plezalske vzpone v slovenskih plezališčih iz spletne strani, ki zagotovo ni [8a.nu](https://www.8a.nu).
 ## Zajemanje podatkov
-Javascript na strani 8a.nu/ascents glede na zahtevane parametre vrne urejen JSON zadnjih 10.000 vzponov v Sloveniji. Žal to ni dovolj za dobro analizo, saj podatki ne sežejo dlje od leta 2018. Zato sem podatke dobil na nasilen način.
+Javascript na strani 8a.nu/ascents glede na zahtevane parametre vrne urejen JSON zadnjih 10.000 vzponov v Sloveniji. Žal to ni dovolj za dobro analizo, saj podatki ne sežejo dlje od leta 2018. Zato sem podatke dobil na nasilen način *iz neke čist druge strani ki to dovoli v terms of service*
 
 ### Zajete spletne strani in [regex](https://en.wikipedia.org/wiki/Inferno_(Dante)#Ninth_Circle_(Treachery))
 

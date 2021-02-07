@@ -68,3 +68,13 @@ def zapisi_json(objekt, ime_datoteke):
     pripravi_imenik(ime_datoteke)
     with open(ime_datoteke, 'w', encoding='utf-8') as json_datoteka:
         json.dump(objekt, json_datoteka, indent=4, ensure_ascii=False)
+
+def ocene():
+    '''
+    Vrne tabelo veljavnih stringov ocen
+    '''
+    ans = []
+    for i in range(1, 10):
+        for j in ['a', 'a+', 'b', 'b+', 'c', 'c+']:
+            ans.append(str(i)+j)
+    return ans

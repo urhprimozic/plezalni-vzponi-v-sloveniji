@@ -78,3 +78,14 @@ def ocene():
         for j in ['a', 'a+', 'b', 'b+', 'c', 'c+']:
             ans.append(str(i)+j)
     return ans
+
+# nekatera plezalisca nastpoajo pod različnimi imeni
+def popravi_ime(ime):
+    '''
+    Vrne pravo ime plezalisca.
+    '''
+    if ime=='mija-pec' or ime=='misja-pec':
+        return 'osp-misja-pec'
+    if ime=='dolanova-soteska':
+        return 'dovzanova-soteska'
+    return ime

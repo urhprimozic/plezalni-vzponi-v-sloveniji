@@ -142,6 +142,7 @@ def povezovalne_vzponi_strik(filename='vzponi_strik.json'):
     smeri = []
     for id, vzpon in enumerate(vzponi):
         # novi vzponi
+        vzpon['plezalisce'] = orodja.popravi_ime(vzpon['plezalisce'])
         cel_vzpon = vzpon
         cel_vzpon['id'] = id
         vzponi_z_indeksom.append(cel_vzpon)

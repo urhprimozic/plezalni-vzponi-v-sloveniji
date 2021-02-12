@@ -135,14 +135,50 @@ def povezovalne_vzponi_strik(filename='vzponi_strik.json'):
     datoteka = os.path.join(mapa_s_podatki, filename)
     with open(datoteka) as f:
         vzponi = json.load(f)
+    
+    povprecne = {}
+
     vzponi_z_indeksom = []
     plezalci = []
     plezalisca = []
     smeri_plezalisca = []
     smeri = []
+    # povprecne
     for id, vzpon in enumerate(vzponi):
-        # novi vzponi
+         # popravki
         vzpon['plezalisce'] = orodja.popravi_ime(vzpon['plezalisce'])
+        vzpon['smer'] = orodja.popravi_ime_smeri(vzpon['smer'])
+
+        tmp_ime = vzpon['smer'] + '§'+ vzpon['plezalisce']
+        if povprecne.get(tmp_ime) is None:
+            povprecne[tmp_ime] = [orodja.ocena_v_int(vzpon['tezavnost'])]
+        else:
+            povprecne[tmp_ime] = povprecne[tmp_ime] + [orodja.ocena_v_int(vzpon['tezavnost'])]
+
+    for k, v in povprecne.items():
+        vse = povprecne[k]
+        povprecne[k] = orodja.int_v_oceno(int(round(sum(vse)/len(vse))))
+    #print(povprecne)
+
+    for id, vzpon in enumerate(vzponi):
+        # v podatkih se pojavlja napaka, kjer je ime smeri "N.N." . 
+        # Take ignoriramo. 
+        # (je jih ~300, kar je manj kot 1%)
+        # večinoma so to lahke smeri)
+        if vzpon['smer'] == 'N.N.':
+            # print("Napaka. ime smeri je N.N.")
+            continue
+
+        # povprecne
+        # tezanost - kako težko je blo pelzalcu
+        # ocena - resnica (povprečje ;) )
+        vzpon['ocena'] = '1a'
+        s = vzpon['smer']
+        p = vzpon['plezalisce']
+        if not povprecne.get(s + '§' + p) is None:
+            vzpon['ocena'] = povprecne[s + '§' + p]
+        
+
         cel_vzpon = vzpon
         cel_vzpon['id'] = id
         vzponi_z_indeksom.append(cel_vzpon)
@@ -155,7 +191,7 @@ def povezovalne_vzponi_strik(filename='vzponi_strik.json'):
 
     orodja.zapisi_json(vzponi_z_indeksom, os.path.join(
         mapa_s_podatki, 'vzponi.json'))
-    orodja.zapisi_csv(vzponi_z_indeksom, ['id', 'uporabnik', 'plezalec', 'plezalisce', 'smer', 'tezavnost',
+    orodja.zapisi_csv(vzponi_z_indeksom, ['id', 'uporabnik', 'plezalec', 'plezalisce', 'smer', 'tezavnost','ocena',
                                           'poskusi', 'datum', 'opomba', 'komentar'], os.path.join(mapa_s_podatki, 'vzponi.csv'))
     
     orodja.zapisi_json(plezalci, os.path.join(mapa_s_podatki, 'plezalci.json'))

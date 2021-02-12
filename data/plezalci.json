@@ -210,11 +210,6 @@
         "id": 41
     },
     {
-        "uporabnik": "stefan-atschreiter",
-        "plezalec": "Stefan Atschreiter",
-        "id": 42
-    },
-    {
         "uporabnik": "matja-zorko",
         "plezalec": "Matjaz Zorko",
         "id": 43
@@ -1122,11 +1117,6 @@
     {
         "uporabnik": "balazs-palko",
         "plezalec": "Balázs Palkó",
-        "id": 224
-    },
-    {
-        "uporabnik": "balazs-palko",
-        "plezalec": "Balázs Palkó",
         "id": 225
     },
     {
@@ -1670,11 +1660,6 @@
         "id": 333
     },
     {
-        "uporabnik": "janez-miklavcic",
-        "plezalec": "Janez Miklavčič",
-        "id": 334
-    },
-    {
         "uporabnik": "kuba-jasiewicz",
         "plezalec": "Kuba Jasiewicz",
         "id": 335
@@ -1703,11 +1688,6 @@
         "uporabnik": "lukasz-gebel",
         "plezalec": "Lukasz Gebel",
         "id": 340
-    },
-    {
-        "uporabnik": "lukasz-gebel",
-        "plezalec": "Lukasz Gebel",
-        "id": 341
     },
     {
         "uporabnik": "kuba-jasiewicz",
@@ -1785,11 +1765,6 @@
         "id": 356
     },
     {
-        "uporabnik": "kuba-jasiewicz",
-        "plezalec": "Kuba Jasiewicz",
-        "id": 357
-    },
-    {
         "uporabnik": "urban-primoic",
         "plezalec": "Urban Primožič",
         "id": 358
@@ -1803,11 +1778,6 @@
         "uporabnik": "erazem-stonic-pwp5u",
         "plezalec": "Erazem Stonič",
         "id": 360
-    },
-    {
-        "uporabnik": "martin-bombac",
-        "plezalec": "Martin Bombac",
-        "id": 361
     },
     {
         "uporabnik": "marco-saule",
@@ -2527,11 +2497,6 @@
     {
         "uporabnik": "valentin-sattek",
         "plezalec": "Valentin Sattek",
-        "id": 505
-    },
-    {
-        "uporabnik": "valentin-sattek",
-        "plezalec": "Valentin Sattek",
         "id": 506
     },
     {
@@ -2663,11 +2628,6 @@
         "uporabnik": "dominik-fon",
         "plezalec": "Dominik Fon",
         "id": 532
-    },
-    {
-        "uporabnik": "emilia-placzek",
-        "plezalec": "Emilia Placzek",
-        "id": 533
     },
     {
         "uporabnik": "luka-pavlovcic",
@@ -3642,11 +3602,6 @@
     {
         "uporabnik": "piotr-pawlak",
         "plezalec": "Piotr Pawlak",
-        "id": 728
-    },
-    {
-        "uporabnik": "piotr-pawlak",
-        "plezalec": "Piotr Pawlak",
         "id": 729
     },
     {
@@ -3952,11 +3907,6 @@
     {
         "uporabnik": "fabian-petutschnig",
         "plezalec": "Fabian Petutschnig",
-        "id": 790
-    },
-    {
-        "uporabnik": "fabian-petutschnig",
-        "plezalec": "Fabian Petutschnig",
         "id": 791
     },
     {
@@ -4023,11 +3973,6 @@
         "uporabnik": "miha-hribar",
         "plezalec": "Miha Hribar",
         "id": 804
-    },
-    {
-        "uporabnik": "gasper-fasun",
-        "plezalec": "Gašper Fašun",
-        "id": 805
     },
     {
         "uporabnik": "ajda-lovse",
@@ -4395,11 +4340,6 @@
         "id": 878
     },
     {
-        "uporabnik": "wojciech-grzesiak",
-        "plezalec": "Wojciech Grzesiak",
-        "id": 879
-    },
-    {
         "uporabnik": "filip-kurtovic-2l2sq",
         "plezalec": "Filip Kurtović",
         "id": 880
@@ -4733,11 +4673,6 @@
         "uporabnik": "matthias-trockner",
         "plezalec": "Matthias Trockner",
         "id": 946
-    },
-    {
-        "uporabnik": "aleksander-olszok",
-        "plezalec": "Aleksander Olszok",
-        "id": 947
     },
     {
         "uporabnik": "andrea-vitagliano",
@@ -5832,11 +5767,6 @@
     {
         "uporabnik": "bennet-klarhoelter",
         "plezalec": "Bennet Klarhölter",
-        "id": 1166
-    },
-    {
-        "uporabnik": "bennet-klarhoelter",
-        "plezalec": "Bennet Klarhölter",
         "id": 1167
     },
     {
@@ -6078,11 +6008,6 @@
         "uporabnik": "kam-stopa",
         "plezalec": "Kam Stopa",
         "id": 1215
-    },
-    {
-        "uporabnik": "ania-blaszkiewicz-65535",
-        "plezalec": "Ania Błaszkiewicz",
-        "id": 1216
     },
     {
         "uporabnik": "ania-blaszkiewicz-65535",
@@ -6912,11 +6837,6 @@
     {
         "uporabnik": "matej-glivar",
         "plezalec": "Matej Glivar",
-        "id": 1382
-    },
-    {
-        "uporabnik": "matej-glivar",
-        "plezalec": "Matej Glivar",
         "id": 1383
     },
     {
@@ -7465,11 +7385,6 @@
         "id": 1492
     },
     {
-        "uporabnik": "marcin-b",
-        "plezalec": "marcin marcin",
-        "id": 1493
-    },
-    {
         "uporabnik": "marcin-wesoly",
         "plezalec": "Marcin Wesoly",
         "id": 1494
@@ -7575,11 +7490,6 @@
         "id": 1514
     },
     {
-        "uporabnik": "marcin-b",
-        "plezalec": "marcin marcin",
-        "id": 1515
-    },
-    {
         "uporabnik": "marcin-wesoly",
         "plezalec": "Marcin Wesoly",
         "id": 1516
@@ -7675,11 +7585,6 @@
         "id": 1534
     },
     {
-        "uporabnik": "filip-orewczyk",
-        "plezalec": "Filip Orewczyk",
-        "id": 1535
-    },
-    {
         "uporabnik": "tomel-buk",
         "plezalec": "Tomek Bukowski",
         "id": 1536
@@ -7743,11 +7648,6 @@
         "uporabnik": "matej-glivar",
         "plezalec": "Matej Glivar",
         "id": 1548
-    },
-    {
-        "uporabnik": "rybcia-rybcia",
-        "plezalec": "K Rybcia",
-        "id": 1549
     },
     {
         "uporabnik": "v-kuznetsov",
@@ -8095,11 +7995,6 @@
         "id": 1618
     },
     {
-        "uporabnik": "maciej-weglowski",
-        "plezalec": "Maciej Węgłowski",
-        "id": 1619
-    },
-    {
         "uporabnik": "piotrek-bia3as",
         "plezalec": "Piotrek Białas",
         "id": 1620
@@ -8157,11 +8052,6 @@
     {
         "uporabnik": "nikodem-balon",
         "plezalec": "Nikodem Balon",
-        "id": 1631
-    },
-    {
-        "uporabnik": "nikodem-balon",
-        "plezalec": "Nikodem Balon",
         "id": 1632
     },
     {
@@ -8208,11 +8098,6 @@
         "uporabnik": "szymon-krolinski",
         "plezalec": "Szymon Krolinski",
         "id": 1641
-    },
-    {
-        "uporabnik": "v-kuznetsov",
-        "plezalec": "V Kuznetsov",
-        "id": 1642
     },
     {
         "uporabnik": "stan-zolnierczyk",
@@ -8270,11 +8155,6 @@
         "id": 1653
     },
     {
-        "uporabnik": "nikodem-balon",
-        "plezalec": "Nikodem Balon",
-        "id": 1654
-    },
-    {
         "uporabnik": "dominik-wisniewski",
         "plezalec": "Dominik Wisniewski",
         "id": 1655
@@ -8320,11 +8200,6 @@
         "id": 1663
     },
     {
-        "uporabnik": "michal-obrzut",
-        "plezalec": "Michal Obrzut",
-        "id": 1664
-    },
-    {
         "uporabnik": "stefan-madej-0fk4e",
         "plezalec": "Stefan Madej",
         "id": 1665
@@ -8355,19 +8230,9 @@
         "id": 1670
     },
     {
-        "uporabnik": "michal-obrzut",
-        "plezalec": "Michal Obrzut",
-        "id": 1671
-    },
-    {
         "uporabnik": "tomasz-hajek",
         "plezalec": "Tomasz Hajek",
         "id": 1672
-    },
-    {
-        "uporabnik": "szymon-krolinski",
-        "plezalec": "Szymon Krolinski",
-        "id": 1673
     },
     {
         "uporabnik": "sebasstian-eichholzer",
@@ -8392,22 +8257,12 @@
     {
         "uporabnik": "marcin-wesoly",
         "plezalec": "Marcin Wesoly",
-        "id": 1678
-    },
-    {
-        "uporabnik": "marcin-wesoly",
-        "plezalec": "Marcin Wesoly",
         "id": 1679
     },
     {
         "uporabnik": "marcin-wesoly",
         "plezalec": "Marcin Wesoly",
         "id": 1680
-    },
-    {
-        "uporabnik": "martyna-ciechanowska-70017",
-        "plezalec": "Martyna Ciechanowska",
-        "id": 1681
     },
     {
         "uporabnik": "milena-ciechanowska",
@@ -8427,22 +8282,12 @@
     {
         "uporabnik": "marcin-wesoly",
         "plezalec": "Marcin Wesoly",
-        "id": 1685
-    },
-    {
-        "uporabnik": "marcin-wesoly",
-        "plezalec": "Marcin Wesoly",
         "id": 1686
     },
     {
         "uporabnik": "marcin-wesoly",
         "plezalec": "Marcin Wesoly",
         "id": 1687
-    },
-    {
-        "uporabnik": "martyna-ciechanowska-70017",
-        "plezalec": "Martyna Ciechanowska",
-        "id": 1688
     },
     {
         "uporabnik": "milena-ciechanowska",
@@ -8505,11 +8350,6 @@
         "id": 1700
     },
     {
-        "uporabnik": "bartlomiej-orzytkiewicz",
-        "plezalec": "Bartlomiej |Zytkiewicz",
-        "id": 1701
-    },
-    {
         "uporabnik": "sonia-hetmanczyk",
         "plezalec": "Sonia Hetmanczyk",
         "id": 1702
@@ -8518,11 +8358,6 @@
         "uporabnik": "piotr-niznik",
         "plezalec": "Piotr Niznik",
         "id": 1703
-    },
-    {
-        "uporabnik": "milena-ciechanowska",
-        "plezalec": "Milena Ciechanowska",
-        "id": 1704
     },
     {
         "uporabnik": "krzysztof-grubecki",
@@ -8573,11 +8408,6 @@
         "uporabnik": "rybcia-rybcia",
         "plezalec": "K Rybcia",
         "id": 1714
-    },
-    {
-        "uporabnik": "rybcia-rybcia",
-        "plezalec": "K Rybcia",
-        "id": 1715
     },
     {
         "uporabnik": "piotr-niznik",
@@ -8638,11 +8468,6 @@
         "uporabnik": "rybcia-rybcia",
         "plezalec": "K Rybcia",
         "id": 1727
-    },
-    {
-        "uporabnik": "rybcia-rybcia",
-        "plezalec": "K Rybcia",
-        "id": 1728
     },
     {
         "uporabnik": "piotr-niznik",
@@ -10245,11 +10070,6 @@
         "id": 2048
     },
     {
-        "uporabnik": "michael-piccolruaz",
-        "plezalec": "Michael Piccolruaz",
-        "id": 2049
-    },
-    {
         "uporabnik": "matej-glivar",
         "plezalec": "Matej Glivar",
         "id": 2050
@@ -10662,11 +10482,6 @@
     {
         "uporabnik": "urban-furlan",
         "plezalec": "Urban Furlan",
-        "id": 2132
-    },
-    {
-        "uporabnik": "urban-furlan",
-        "plezalec": "Urban Furlan",
         "id": 2133
     },
     {
@@ -10800,11 +10615,6 @@
         "id": 2159
     },
     {
-        "uporabnik": "jakob-meglic",
-        "plezalec": "Jakob Meglič",
-        "id": 2160
-    },
-    {
         "uporabnik": "ratko-svraka",
         "plezalec": "Ratko Svraka",
         "id": 2161
@@ -10918,11 +10728,6 @@
         "uporabnik": "maximilian-lenz",
         "plezalec": "Maximilian Lenz",
         "id": 2183
-    },
-    {
-        "uporabnik": "maximilian-lenz",
-        "plezalec": "Maximilian Lenz",
-        "id": 2184
     },
     {
         "uporabnik": "ana-marsic",
@@ -11220,11 +11025,6 @@
         "id": 2243
     },
     {
-        "uporabnik": "christian-knoll",
-        "plezalec": "Christian Knoll",
-        "id": 2244
-    },
-    {
         "uporabnik": "flaska-peter-41352",
         "plezalec": "Peter Flaska",
         "id": 2245
@@ -11358,11 +11158,6 @@
         "uporabnik": "matej-glivar",
         "plezalec": "Matej Glivar",
         "id": 2271
-    },
-    {
-        "uporabnik": "maciej-czarnecki",
-        "plezalec": "Maciej Czarnecki",
-        "id": 2272
     },
     {
         "uporabnik": "jacek-kaczanowski",
@@ -12005,11 +11800,6 @@
         "id": 2400
     },
     {
-        "uporabnik": "michele-bort",
-        "plezalec": "Michele Bort",
-        "id": 2401
-    },
-    {
         "uporabnik": "thomas-stoll",
         "plezalec": "Thomas Stoll",
         "id": 2402
@@ -12255,11 +12045,6 @@
         "id": 2450
     },
     {
-        "uporabnik": "lukasz-bolach",
-        "plezalec": "Lukasz Bolach",
-        "id": 2451
-    },
-    {
         "uporabnik": "thomas-stoll",
         "plezalec": "Thomas Stoll",
         "id": 2452
@@ -12410,11 +12195,6 @@
         "id": 2481
     },
     {
-        "uporabnik": "michal-grzyb",
-        "plezalec": "Michal Grzyb",
-        "id": 2482
-    },
-    {
         "uporabnik": "igor-cresnik",
         "plezalec": "Igor Cresnik",
         "id": 2483
@@ -12438,11 +12218,6 @@
         "uporabnik": "thomas-stoll",
         "plezalec": "Thomas Stoll",
         "id": 2487
-    },
-    {
-        "uporabnik": "thomas-stoll",
-        "plezalec": "Thomas Stoll",
-        "id": 2488
     },
     {
         "uporabnik": "henrik-koch",
@@ -14090,11 +13865,6 @@
         "id": 2817
     },
     {
-        "uporabnik": "ulli-donabaum",
-        "plezalec": "Ulrich Donabaum",
-        "id": 2818
-    },
-    {
         "uporabnik": "chiara-vescovo",
         "plezalec": "Chiara Vescovo",
         "id": 2819
@@ -14445,11 +14215,6 @@
         "id": 2888
     },
     {
-        "uporabnik": "michal-besler",
-        "plezalec": "Michal Besler",
-        "id": 2889
-    },
-    {
         "uporabnik": "tom-godec",
         "plezalec": "Tom Godec",
         "id": 2890
@@ -14578,11 +14343,6 @@
         "uporabnik": "ettore-di-matteo",
         "plezalec": "Ettore Di Matteo",
         "id": 2915
-    },
-    {
-        "uporabnik": "kamil-michalczenia",
-        "plezalec": "Kamil Michalczenia",
-        "id": 2916
     },
     {
         "uporabnik": "thomas-zeindl-70521",
@@ -15167,11 +14927,6 @@
     {
         "uporabnik": "kacper-stoch",
         "plezalec": "Kacper Stoch",
-        "id": 3033
-    },
-    {
-        "uporabnik": "kacper-stoch",
-        "plezalec": "Kacper Stoch",
         "id": 3034
     },
     {
@@ -15248,11 +15003,6 @@
         "uporabnik": "dawid-grudzien",
         "plezalec": "Dawid Grudzien",
         "id": 3049
-    },
-    {
-        "uporabnik": "dawid-grudzien",
-        "plezalec": "Dawid Grudzien",
-        "id": 3050
     },
     {
         "uporabnik": "robert-buh",
@@ -16485,11 +16235,6 @@
         "id": 3296
     },
     {
-        "uporabnik": "rafal-w",
-        "plezalec": "Franz K",
-        "id": 3297
-    },
-    {
         "uporabnik": "tobias-m-44627",
         "plezalec": "Tobias Müller",
         "id": 3298
@@ -16688,11 +16433,6 @@
         "uporabnik": "pawel-cwiakala",
         "plezalec": "Pawel Cwiakala",
         "id": 3337
-    },
-    {
-        "uporabnik": "pawel-cwiakala",
-        "plezalec": "Pawel Cwiakala",
-        "id": 3338
     },
     {
         "uporabnik": "rafal-w",
@@ -16988,11 +16728,6 @@
         "uporabnik": "szymon-jarek",
         "plezalec": "Szymon Jarek",
         "id": 3397
-    },
-    {
-        "uporabnik": "przemek-pa",
-        "plezalec": "Przemek Pa",
-        "id": 3398
     },
     {
         "uporabnik": "daniel-lovaas",
@@ -17455,11 +17190,6 @@
         "id": 3490
     },
     {
-        "uporabnik": "m-p-46221",
-        "plezalec": "M P",
-        "id": 3491
-    },
-    {
         "uporabnik": "monika-prokopiuk",
         "plezalec": "Monika Prokopiuk ",
         "id": 3492
@@ -17825,16 +17555,6 @@
         "id": 3564
     },
     {
-        "uporabnik": "tomel-buk",
-        "plezalec": "Tomek Bukowski",
-        "id": 3565
-    },
-    {
-        "uporabnik": "kam-stopa",
-        "plezalec": "Kam Stopa",
-        "id": 3566
-    },
-    {
         "uporabnik": "rok-blagus",
         "plezalec": "Rok Blagus",
         "id": 3567
@@ -17858,11 +17578,6 @@
         "uporabnik": "miha-hribar",
         "plezalec": "Miha Hribar",
         "id": 3571
-    },
-    {
-        "uporabnik": "kuba-polak",
-        "plezalec": "Kuba Polak",
-        "id": 3572
     },
     {
         "uporabnik": "kuba-polak",
@@ -18395,11 +18110,6 @@
         "id": 3678
     },
     {
-        "uporabnik": "grzegorz-makiela",
-        "plezalec": "Grzegorz Makie&amp;#322;a",
-        "id": 3679
-    },
-    {
         "uporabnik": "piotr-niznik",
         "plezalec": "Piotr Niznik",
         "id": 3680
@@ -18790,11 +18500,6 @@
         "id": 3757
     },
     {
-        "uporabnik": "jakob-fuchs",
-        "plezalec": "Jakob Fuchs",
-        "id": 3758
-    },
-    {
         "uporabnik": "sinisa-skalec",
         "plezalec": "Sinisa Skalec",
         "id": 3759
@@ -18853,11 +18558,6 @@
         "uporabnik": "peter-mastnak-sokolov",
         "plezalec": "Peter Mastnak-Sokolov",
         "id": 3770
-    },
-    {
-        "uporabnik": "denis-krebelj",
-        "plezalec": "Denis Krebelj",
-        "id": 3771
     },
     {
         "uporabnik": "matic-obid",
@@ -19137,11 +18837,6 @@
     {
         "uporabnik": "robert-buh",
         "plezalec": "Robert Buh",
-        "id": 3827
-    },
-    {
-        "uporabnik": "robert-buh",
-        "plezalec": "Robert Buh",
         "id": 3828
     },
     {
@@ -19278,11 +18973,6 @@
         "uporabnik": "simona-strle",
         "plezalec": "Simona Strle",
         "id": 3855
-    },
-    {
-        "uporabnik": "mojca-bizjak",
-        "plezalec": "Mojca Bizjak",
-        "id": 3856
     },
     {
         "uporabnik": "zan-lovenjak-sudar",
@@ -19563,11 +19253,6 @@
         "uporabnik": "jure-franko",
         "plezalec": "Jure Franko",
         "id": 3912
-    },
-    {
-        "uporabnik": "chrizzl-manizzl",
-        "plezalec": "chrizzl manizzl",
-        "id": 3913
     },
     {
         "uporabnik": "jure-franko",
@@ -20067,11 +19752,6 @@
     {
         "uporabnik": "patryk-torzecki",
         "plezalec": "Patryk Torzecki",
-        "id": 4013
-    },
-    {
-        "uporabnik": "patryk-torzecki",
-        "plezalec": "Patryk Torzecki",
         "id": 4014
     },
     {
@@ -20268,11 +19948,6 @@
         "uporabnik": "betka-galicic-44050",
         "plezalec": "Betka Galicic",
         "id": 4053
-    },
-    {
-        "uporabnik": "aleksander-dobkowski",
-        "plezalec": "Aleksander Dobkowski",
-        "id": 4054
     },
     {
         "uporabnik": "dominika-soltys",
@@ -20572,11 +20247,6 @@
     {
         "uporabnik": "dominika-soltys",
         "plezalec": "Dominika Sołtys",
-        "id": 4114
-    },
-    {
-        "uporabnik": "dominika-soltys",
-        "plezalec": "Dominika Sołtys",
         "id": 4115
     },
     {
@@ -20642,11 +20312,6 @@
     {
         "uporabnik": "dominika-bryla",
         "plezalec": "Dominika Bryła",
-        "id": 4128
-    },
-    {
-        "uporabnik": "dominika-bryla",
-        "plezalec": "Dominika Bryła",
         "id": 4129
     },
     {
@@ -20693,11 +20358,6 @@
         "uporabnik": "bartlomiej-twardowski",
         "plezalec": "Bartłomiej Twardowski",
         "id": 4138
-    },
-    {
-        "uporabnik": "mateusz-nawratek",
-        "plezalec": "Mateusz Nawratek",
-        "id": 4139
     },
     {
         "uporabnik": "mariusz-polowczuk",
@@ -21008,11 +20668,6 @@
         "uporabnik": "piotr-abrahamczyk",
         "plezalec": "Piotr Abrahamczyk",
         "id": 4201
-    },
-    {
-        "uporabnik": "piotr-abrahamczyk",
-        "plezalec": "Piotr Abrahamczyk",
-        "id": 4202
     },
     {
         "uporabnik": "lukasz-debowski-5170",
@@ -21570,11 +21225,6 @@
         "id": 4313
     },
     {
-        "uporabnik": "zbik-z",
-        "plezalec": "Zbik Z",
-        "id": 4314
-    },
-    {
         "uporabnik": "kuba-barzycki",
         "plezalec": "Kuba Barzycki",
         "id": 4315
@@ -21855,11 +21505,6 @@
         "id": 4370
     },
     {
-        "uporabnik": "francesco-bassetti",
-        "plezalec": "Fra Ba",
-        "id": 4371
-    },
-    {
         "uporabnik": "klemen-novak",
         "plezalec": "Klemen Novak",
         "id": 4372
@@ -22110,19 +21755,9 @@
         "id": 4421
     },
     {
-        "uporabnik": "ania-grabinska",
-        "plezalec": "ania grabinska",
-        "id": 4422
-    },
-    {
         "uporabnik": "chris-reinhold",
         "plezalec": "Chris Reinhold",
         "id": 4423
-    },
-    {
-        "uporabnik": "maciek-grabinski",
-        "plezalec": "Maciek Grabinski",
-        "id": 4424
     },
     {
         "uporabnik": "chris-reinhold",
@@ -22692,11 +22327,6 @@
     {
         "uporabnik": "dominik-zielinski",
         "plezalec": "Dominik Zieliński",
-        "id": 4538
-    },
-    {
-        "uporabnik": "dominik-zielinski",
-        "plezalec": "Dominik Zieliński",
         "id": 4539
     },
     {
@@ -23240,11 +22870,6 @@
         "id": 4647
     },
     {
-        "uporabnik": "hania-p",
-        "plezalec": "Hania P",
-        "id": 4648
-    },
-    {
         "uporabnik": "thomas-hahn",
         "plezalec": "Thomas Hahn",
         "id": 4649
@@ -23253,16 +22878,6 @@
         "uporabnik": "nikita-shvinagir",
         "plezalec": "Nikita Shvinagir",
         "id": 4650
-    },
-    {
-        "uporabnik": "nikita-shvinagir",
-        "plezalec": "Nikita Shvinagir",
-        "id": 4651
-    },
-    {
-        "uporabnik": "bartlomiej-twardowski",
-        "plezalec": "Bartłomiej Twardowski",
-        "id": 4652
     },
     {
         "uporabnik": "lars-abramowski",
@@ -23278,11 +22893,6 @@
         "uporabnik": "lars-abramowski",
         "plezalec": "Lars Abramowski",
         "id": 4655
-    },
-    {
-        "uporabnik": "mania-mania-a",
-        "plezalec": "Marlena Abr",
-        "id": 4656
     },
     {
         "uporabnik": "mania-mania-a",
@@ -23535,11 +23145,6 @@
         "id": 4706
     },
     {
-        "uporabnik": "kam-stopa",
-        "plezalec": "Kam Stopa",
-        "id": 4707
-    },
-    {
         "uporabnik": "ida-kups",
         "plezalec": "Ida Kupś",
         "id": 4708
@@ -23548,11 +23153,6 @@
         "uporabnik": "basia-ciszynska",
         "plezalec": "Basia Ciszyńska",
         "id": 4709
-    },
-    {
-        "uporabnik": "mateusz-siwek",
-        "plezalec": "Mateusz Siwek",
-        "id": 4710
     },
     {
         "uporabnik": "mateusz-siwek",
@@ -23700,11 +23300,6 @@
         "id": 4739
     },
     {
-        "uporabnik": "mateusz-tyczynski",
-        "plezalec": "Mateusz Tyczyński",
-        "id": 4740
-    },
-    {
         "uporabnik": "kacper-kusion",
         "plezalec": "KACPER KUSION",
         "id": 4741
@@ -23723,11 +23318,6 @@
         "uporabnik": "kamil-ferdinand",
         "plezalec": "Kamil Fertacz",
         "id": 4744
-    },
-    {
-        "uporabnik": "basia-ciszynska",
-        "plezalec": "Basia Ciszyńska",
-        "id": 4745
     },
     {
         "uporabnik": "bartlomiej-twardowski",
@@ -23905,11 +23495,6 @@
         "id": 4780
     },
     {
-        "uporabnik": "stan-zolnierczyk",
-        "plezalec": "Stan Zolnierczyk",
-        "id": 4781
-    },
-    {
         "uporabnik": "mateusz-siwek",
         "plezalec": "Mateusz Siwek",
         "id": 4782
@@ -24073,11 +23658,6 @@
         "uporabnik": "adam-budzinski",
         "plezalec": "Adam Budzinski",
         "id": 4814
-    },
-    {
-        "uporabnik": "grzegorz-jamka",
-        "plezalec": "Grzegorz Jamka",
-        "id": 4815
     },
     {
         "uporabnik": "grzegorz-jamka",
@@ -26435,11 +26015,6 @@
         "id": 5286
     },
     {
-        "uporabnik": "kamil-ferdinand",
-        "plezalec": "Kamil Fertacz",
-        "id": 5287
-    },
-    {
         "uporabnik": "sirhc-v",
         "plezalec": "sirhc v",
         "id": 5288
@@ -26912,11 +26487,6 @@
     {
         "uporabnik": "stasa-gejo",
         "plezalec": "Staša Gejo",
-        "id": 5382
-    },
-    {
-        "uporabnik": "stasa-gejo",
-        "plezalec": "Staša Gejo",
         "id": 5383
     },
     {
@@ -27123,11 +26693,6 @@
         "uporabnik": "peter-mastnak-sokolov",
         "plezalec": "Peter Mastnak-Sokolov",
         "id": 5424
-    },
-    {
-        "uporabnik": "jaka-sprah",
-        "plezalec": "Jaka Šprah",
-        "id": 5425
     },
     {
         "uporabnik": "klemen-peterlin",
@@ -27662,11 +27227,6 @@
     {
         "uporabnik": "grzegorz-grabowski",
         "plezalec": "Grzegorz Grabowski",
-        "id": 5532
-    },
-    {
-        "uporabnik": "grzegorz-grabowski",
-        "plezalec": "Grzegorz Grabowski",
         "id": 5533
     },
     {
@@ -27718,11 +27278,6 @@
         "uporabnik": "denis-pail",
         "plezalec": "Denis Pail",
         "id": 5543
-    },
-    {
-        "uporabnik": "malinka-m-wfkbf",
-        "plezalec": "Malinka M",
-        "id": 5544
     },
     {
         "uporabnik": "ema-seliskar",
@@ -28077,11 +27632,6 @@
     {
         "uporabnik": "konstantin-gartenlehner",
         "plezalec": "Konstantin Gartenlehner",
-        "id": 5615
-    },
-    {
-        "uporabnik": "konstantin-gartenlehner",
-        "plezalec": "Konstantin Gartenlehner",
         "id": 5616
     },
     {
@@ -28237,11 +27787,6 @@
     {
         "uporabnik": "risa-ota-f",
         "plezalec": "Risa Ota (f)",
-        "id": 5647
-    },
-    {
-        "uporabnik": "risa-ota-f",
-        "plezalec": "Risa Ota (f)",
         "id": 5648
     },
     {
@@ -28343,11 +27888,6 @@
         "uporabnik": "sinisa-skalec",
         "plezalec": "Sinisa Skalec",
         "id": 5668
-    },
-    {
-        "uporabnik": "krzysiek-czernik",
-        "plezalec": "Krzysiek Czernik",
-        "id": 5669
     },
     {
         "uporabnik": "krzysiek-czernik",
@@ -28475,11 +28015,6 @@
         "id": 5694
     },
     {
-        "uporabnik": "maciek-kronenberg",
-        "plezalec": "Maciek Kronenberg",
-        "id": 5695
-    },
-    {
         "uporabnik": "jaka-sprah",
         "plezalec": "Jaka Šprah",
         "id": 5696
@@ -28573,11 +28108,6 @@
         "uporabnik": "konrad-schlenkrich",
         "plezalec": "Konrad Schlenkrich",
         "id": 5714
-    },
-    {
-        "uporabnik": "konrad-schlenkrich",
-        "plezalec": "Konrad Schlenkrich",
-        "id": 5715
     },
     {
         "uporabnik": "konrad-schlenkrich",
@@ -29283,11 +28813,6 @@
         "uporabnik": "viorel-amzaroiu",
         "plezalec": "Viorel Amzaroiu",
         "id": 5856
-    },
-    {
-        "uporabnik": "tomek-japa",
-        "plezalec": "Tomek Japa",
-        "id": 5857
     },
     {
         "uporabnik": "tomek-polec",
@@ -30023,11 +29548,6 @@
         "uporabnik": "tomasz-zajac-58808",
         "plezalec": "Tomasz Zajac",
         "id": 6004
-    },
-    {
-        "uporabnik": "stanislaw-taranowski",
-        "plezalec": "Stanisław Taranowski",
-        "id": 6005
     },
     {
         "uporabnik": "stanislaw-taranowski",
@@ -30902,11 +30422,6 @@
     {
         "uporabnik": "severin-auer",
         "plezalec": "Severin Auer",
-        "id": 6180
-    },
-    {
-        "uporabnik": "severin-auer",
-        "plezalec": "Severin Auer",
         "id": 6181
     },
     {
@@ -31587,11 +31102,6 @@
     {
         "uporabnik": "paulina-slowik-h5ooo",
         "plezalec": "Paulina Słowik",
-        "id": 6317
-    },
-    {
-        "uporabnik": "paulina-slowik-h5ooo",
-        "plezalec": "Paulina Słowik",
         "id": 6318
     },
     {
@@ -31697,22 +31207,12 @@
     {
         "uporabnik": "dariia-karavaieva",
         "plezalec": "Dariia Karavaieva",
-        "id": 6339
-    },
-    {
-        "uporabnik": "dariia-karavaieva",
-        "plezalec": "Dariia Karavaieva",
         "id": 6340
     },
     {
         "uporabnik": "klemen-kejzar",
         "plezalec": "Klemen Kejžar",
         "id": 6341
-    },
-    {
-        "uporabnik": "benjamin-kalan",
-        "plezalec": "Benjamin Kalan",
-        "id": 6342
     },
     {
         "uporabnik": "dariia-karavaieva",
@@ -32090,11 +31590,6 @@
         "id": 6417
     },
     {
-        "uporabnik": "guido-de-sabbata-nuv0s",
-        "plezalec": "Guido  De Sabbata ",
-        "id": 6418
-    },
-    {
         "uporabnik": "anna-shlyakhova",
         "plezalec": "Anna Shlyakhova",
         "id": 6419
@@ -32263,11 +31758,6 @@
         "uporabnik": "marysia-szczepankiewicz",
         "plezalec": "Marysia Szczepankiewicz",
         "id": 6452
-    },
-    {
-        "uporabnik": "michael-naumenko",
-        "plezalec": "Michael Naumenko",
-        "id": 6453
     },
     {
         "uporabnik": "martin-wagner",
@@ -32798,16 +32288,6 @@
         "uporabnik": "ivana-staraj",
         "plezalec": "Ivana Staraj",
         "id": 6559
-    },
-    {
-        "uporabnik": "kostya-p",
-        "plezalec": "Kostya P.",
-        "id": 6560
-    },
-    {
-        "uporabnik": "anna-shlyakhova",
-        "plezalec": "Anna Shlyakhova",
-        "id": 6561
     },
     {
         "uporabnik": "piotr-janusz",
@@ -33525,11 +33005,6 @@
         "id": 6704
     },
     {
-        "uporabnik": "krisztina-rozsa",
-        "plezalec": "Krisztina Rozsa",
-        "id": 6705
-    },
-    {
         "uporabnik": "pio-koval",
         "plezalec": "Pio Kopio",
         "id": 6706
@@ -33870,11 +33345,6 @@
         "id": 6773
     },
     {
-        "uporabnik": "pio-koval",
-        "plezalec": "Pio Kopio",
-        "id": 6774
-    },
-    {
         "uporabnik": "mateusz-chrzest",
         "plezalec": "Mateusz Chrzęst",
         "id": 6775
@@ -34048,11 +33518,6 @@
         "uporabnik": "wiola-imiolczyk",
         "plezalec": "User Deactivated",
         "id": 6809
-    },
-    {
-        "uporabnik": "wiola-imiolczyk",
-        "plezalec": "User Deactivated",
-        "id": 6810
     },
     {
         "uporabnik": "katie-lambert-f",
@@ -35215,11 +34680,6 @@
         "id": 7042
     },
     {
-        "uporabnik": "karina-kosiorek",
-        "plezalec": "Karina Kosiorek",
-        "id": 7043
-    },
-    {
         "uporabnik": "lan-zupancic",
         "plezalec": "Lan Zupancic",
         "id": 7044
@@ -35233,11 +34693,6 @@
         "uporabnik": "peter-mastnak-sokolov",
         "plezalec": "Peter Mastnak-Sokolov",
         "id": 7046
-    },
-    {
-        "uporabnik": "erwin-fedasz",
-        "plezalec": "Erwin Fedasz",
-        "id": 7047
     },
     {
         "uporabnik": "petra-poloncic",
@@ -36595,11 +36050,6 @@
         "id": 7318
     },
     {
-        "uporabnik": "tomek-rumianowski",
-        "plezalec": "Tomek Rumianowski",
-        "id": 7319
-    },
-    {
         "uporabnik": "simon-widmayr",
         "plezalec": "Simon Widmayr",
         "id": 7320
@@ -36900,11 +36350,6 @@
         "id": 7379
     },
     {
-        "uporabnik": "patryk-r",
-        "plezalec": "Patryk R",
-        "id": 7380
-    },
-    {
         "uporabnik": "ivana-balic",
         "plezalec": "Ivana Balic",
         "id": 7381
@@ -36943,16 +36388,6 @@
         "uporabnik": "patryk-r",
         "plezalec": "Patryk R",
         "id": 7388
-    },
-    {
-        "uporabnik": "joanna-zalubska",
-        "plezalec": "Joanna Załubska",
-        "id": 7389
-    },
-    {
-        "uporabnik": "zuzia-banas",
-        "plezalec": "Zuzia Bana&amp;#347;",
-        "id": 7390
     },
     {
         "uporabnik": "joanna-zalubska",
@@ -37330,11 +36765,6 @@
         "id": 7465
     },
     {
-        "uporabnik": "jan-malkovich",
-        "plezalec": "W Z",
-        "id": 7466
-    },
-    {
         "uporabnik": "marton-fidy",
         "plezalec": "Marci Fidy",
         "id": 7467
@@ -37648,11 +37078,6 @@
         "uporabnik": "jakob-bizjak",
         "plezalec": "Jakob Bizjak",
         "id": 7529
-    },
-    {
-        "uporabnik": "jakob-bizjak",
-        "plezalec": "Jakob Bizjak",
-        "id": 7530
     },
     {
         "uporabnik": "mojca-bizjak",
@@ -38155,11 +37580,6 @@
         "id": 7630
     },
     {
-        "uporabnik": "lena-herrmann-f",
-        "plezalec": "User Deactivated",
-        "id": 7631
-    },
-    {
         "uporabnik": "sabina-alex",
         "plezalec": "Sabina ALEX",
         "id": 7632
@@ -38233,16 +37653,6 @@
         "uporabnik": "chicco-villani",
         "plezalec": "Chicco Villani",
         "id": 7646
-    },
-    {
-        "uporabnik": "monika-debowska",
-        "plezalec": "Monika Debowska",
-        "id": 7647
-    },
-    {
-        "uporabnik": "milosz-jodlowski",
-        "plezalec": "Miłosz  Jodłowski ",
-        "id": 7648
     },
     {
         "uporabnik": "milosz-jodlowski",
@@ -38353,16 +37763,6 @@
         "uporabnik": "chicco-villani",
         "plezalec": "Chicco Villani",
         "id": 7670
-    },
-    {
-        "uporabnik": "chicco-villani",
-        "plezalec": "Chicco Villani",
-        "id": 7671
-    },
-    {
-        "uporabnik": "chicco-villani",
-        "plezalec": "Chicco Villani",
-        "id": 7672
     },
     {
         "uporabnik": "sabina-alex",
@@ -38582,11 +37982,6 @@
     {
         "uporabnik": "mateusz-daniec",
         "plezalec": "Mateusz Daniec",
-        "id": 7716
-    },
-    {
-        "uporabnik": "mateusz-daniec",
-        "plezalec": "Mateusz Daniec",
         "id": 7717
     },
     {
@@ -38613,11 +38008,6 @@
         "uporabnik": "milosz-jodlowski",
         "plezalec": "Miłosz  Jodłowski ",
         "id": 7722
-    },
-    {
-        "uporabnik": "paulina-k",
-        "plezalec": "Paulina K..",
-        "id": 7723
     },
     {
         "uporabnik": "diego-pionez",
@@ -39050,11 +38440,6 @@
         "id": 7809
     },
     {
-        "uporabnik": "ania-matzullok",
-        "plezalec": "Ania Matzullok",
-        "id": 7810
-    },
-    {
         "uporabnik": "denis-pail",
         "plezalec": "Denis Pail",
         "id": 7811
@@ -39223,11 +38608,6 @@
         "uporabnik": "martine-frekhaug",
         "plezalec": "Martine Frekhaug",
         "id": 7844
-    },
-    {
-        "uporabnik": "jura-grecnar-6pzs2",
-        "plezalec": "Jura Grecnar",
-        "id": 7845
     },
     {
         "uporabnik": "ania-matzullok",
@@ -39503,11 +38883,6 @@
         "uporabnik": "s-braveheart",
         "plezalec": "S.  Braveheart",
         "id": 7900
-    },
-    {
-        "uporabnik": "aneta-piskulak-lakwa",
-        "plezalec": "Aneta Piskulak - Lakwa",
-        "id": 7901
     },
     {
         "uporabnik": "aneta-piskulak-lakwa",
@@ -39808,11 +39183,6 @@
         "uporabnik": "dunja-dragun",
         "plezalec": "Dunja Dragun",
         "id": 7961
-    },
-    {
-        "uporabnik": "dunja-dragun",
-        "plezalec": "Dunja Dragun",
-        "id": 7962
     },
     {
         "uporabnik": "peter-mastnak-sokolov",
@@ -40407,11 +39777,6 @@
     {
         "uporabnik": "leszek-gazicki",
         "plezalec": "Leszek Gazicki",
-        "id": 8081
-    },
-    {
-        "uporabnik": "leszek-gazicki",
-        "plezalec": "Leszek Gazicki",
         "id": 8082
     },
     {
@@ -40467,17 +39832,7 @@
     {
         "uporabnik": "veronika-vergara-v-de-bruenion",
         "plezalec": "Veronika Vergara V. de Bruenion",
-        "id": 8093
-    },
-    {
-        "uporabnik": "veronika-vergara-v-de-bruenion",
-        "plezalec": "Veronika Vergara V. de Bruenion",
         "id": 8094
-    },
-    {
-        "uporabnik": "daniel-bruenion-41287",
-        "plezalec": "Daniel Brünion",
-        "id": 8095
     },
     {
         "uporabnik": "daniel-bruenion-41287",
@@ -40543,11 +39898,6 @@
         "uporabnik": "bor-levicnik",
         "plezalec": "Bor Levicnik",
         "id": 8108
-    },
-    {
-        "uporabnik": "gilles-roosen",
-        "plezalec": "Gilles Roosen",
-        "id": 8109
     },
     {
         "uporabnik": "gilles-roosen",
@@ -41135,11 +40485,6 @@
         "id": 8226
     },
     {
-        "uporabnik": "flo-bee",
-        "plezalec": "flo bee",
-        "id": 8227
-    },
-    {
         "uporabnik": "boris-cujic",
         "plezalec": "Boris Čujić",
         "id": 8228
@@ -41215,11 +40560,6 @@
         "id": 8242
     },
     {
-        "uporabnik": "filip-kucharczuk",
-        "plezalec": "filip kucharczuk",
-        "id": 8243
-    },
-    {
         "uporabnik": "gernot-mausser",
         "plezalec": "Gernot Mausser",
         "id": 8244
@@ -41288,11 +40628,6 @@
         "uporabnik": "mark-zaus",
         "plezalec": "Mar Zau",
         "id": 8257
-    },
-    {
-        "uporabnik": "mark-zaus",
-        "plezalec": "Mar Zau",
-        "id": 8258
     },
     {
         "uporabnik": "mark-zaus",
@@ -41390,11 +40725,6 @@
         "id": 8277
     },
     {
-        "uporabnik": "visko-kl",
-        "plezalec": "visko kl",
-        "id": 8278
-    },
-    {
         "uporabnik": "luka-mestrovic",
         "plezalec": "Luka Meštrović",
         "id": 8279
@@ -41423,11 +40753,6 @@
         "uporabnik": "simon-schoenach",
         "plezalec": "Simon Schoenach",
         "id": 8284
-    },
-    {
-        "uporabnik": "simon-schoenach",
-        "plezalec": "Simon Schoenach",
-        "id": 8285
     },
     {
         "uporabnik": "gernot-mausser",
@@ -41558,11 +40883,6 @@
         "uporabnik": "denis-olesik",
         "plezalec": "Denis Olesik",
         "id": 8311
-    },
-    {
-        "uporabnik": "denis-olesik",
-        "plezalec": "Denis Olesik",
-        "id": 8312
     },
     {
         "uporabnik": "denis-olesik",
@@ -42460,11 +41780,6 @@
         "id": 8491
     },
     {
-        "uporabnik": "piotr-janusz",
-        "plezalec": "Piotr Janusz",
-        "id": 8492
-    },
-    {
         "uporabnik": "joanna-zalubska",
         "plezalec": "Joanna Załubska",
         "id": 8493
@@ -42478,11 +41793,6 @@
         "uporabnik": "dorota-sekowska",
         "plezalec": "Dorota Sekowska",
         "id": 8495
-    },
-    {
-        "uporabnik": "dorota-sekowska",
-        "plezalec": "Dorota Sekowska",
-        "id": 8496
     },
     {
         "uporabnik": "dorota-sekowska",
@@ -42850,11 +42160,6 @@
         "id": 8569
     },
     {
-        "uporabnik": "asia-rodowicz",
-        "plezalec": "Weronika Rozanska",
-        "id": 8570
-    },
-    {
         "uporabnik": "balazs-gyenes",
         "plezalec": "Balazs Gyenes",
         "id": 8571
@@ -42863,11 +42168,6 @@
         "uporabnik": "balazs-gyenes",
         "plezalec": "Balazs Gyenes",
         "id": 8572
-    },
-    {
-        "uporabnik": "asia-rodowicz",
-        "plezalec": "Weronika Rozanska",
-        "id": 8573
     },
     {
         "uporabnik": "asia-rodowicz",
@@ -43107,22 +42407,12 @@
     {
         "uporabnik": "olga-annenkova",
         "plezalec": "Olga Annenkova",
-        "id": 8621
-    },
-    {
-        "uporabnik": "olga-annenkova",
-        "plezalec": "Olga Annenkova",
         "id": 8622
     },
     {
         "uporabnik": "olga-annenkova",
         "plezalec": "Olga Annenkova",
         "id": 8623
-    },
-    {
-        "uporabnik": "olga-annenkova",
-        "plezalec": "Olga Annenkova",
-        "id": 8624
     },
     {
         "uporabnik": "tomas-ni",
@@ -43373,11 +42663,6 @@
         "uporabnik": "pawel-kida",
         "plezalec": "Pawel Kida",
         "id": 8674
-    },
-    {
-        "uporabnik": "karolina-oska-0t7n2",
-        "plezalec": "Karolina Ośka",
-        "id": 8675
     },
     {
         "uporabnik": "karolina-oska-0t7n2",
@@ -43637,11 +42922,6 @@
     {
         "uporabnik": "karolina-oska-0t7n2",
         "plezalec": "Karolina Ośka",
-        "id": 8727
-    },
-    {
-        "uporabnik": "karolina-oska-0t7n2",
-        "plezalec": "Karolina Ośka",
         "id": 8728
     },
     {
@@ -43653,11 +42933,6 @@
         "uporabnik": "ole-landsverk",
         "plezalec": "Ole Landsverk",
         "id": 8730
-    },
-    {
-        "uporabnik": "adam-gadula-karpierz",
-        "plezalec": "Adam &quot;Gadu&amp;#322;a&quot; Karpierz",
-        "id": 8731
     },
     {
         "uporabnik": "andreas-hanisch",
@@ -43833,11 +43108,6 @@
         "uporabnik": "philipp-gassner",
         "plezalec": "Philipp Gaßner",
         "id": 8766
-    },
-    {
-        "uporabnik": "gocha-bozek",
-        "plezalec": "Gocha Bożek",
-        "id": 8767
     },
     {
         "uporabnik": "jani-zoraj",
@@ -44128,11 +43398,6 @@
         "uporabnik": "nora-weidinger",
         "plezalec": "Nora Weidinger",
         "id": 8825
-    },
-    {
-        "uporabnik": "pio-koval",
-        "plezalec": "Pio Kopio",
-        "id": 8826
     },
     {
         "uporabnik": "andreas-spitaler",
@@ -44482,11 +43747,6 @@
     {
         "uporabnik": "agnes-livia-bodor",
         "plezalec": "Agnes Livia Bodor",
-        "id": 8896
-    },
-    {
-        "uporabnik": "agnes-livia-bodor",
-        "plezalec": "Agnes Livia Bodor",
         "id": 8897
     },
     {
@@ -44528,11 +43788,6 @@
         "uporabnik": "andreas-spitaler",
         "plezalec": "Andreas Spitaler",
         "id": 8905
-    },
-    {
-        "uporabnik": "johannes-muellner",
-        "plezalec": "Jo Jo",
-        "id": 8906
     },
     {
         "uporabnik": "johannes-muellner",
@@ -44712,11 +43967,6 @@
     {
         "uporabnik": "tomasz-zajac-58808",
         "plezalec": "Tomasz Zajac",
-        "id": 8942
-    },
-    {
-        "uporabnik": "tomasz-zajac-58808",
-        "plezalec": "Tomasz Zajac",
         "id": 8943
     },
     {
@@ -44748,11 +43998,6 @@
         "uporabnik": "marcin-michalek",
         "plezalec": "Marcin Michałek",
         "id": 8949
-    },
-    {
-        "uporabnik": "joanna-dybisiak",
-        "plezalec": "Joanna Dybisiak",
-        "id": 8950
     },
     {
         "uporabnik": "thilo-mueller",
@@ -46003,11 +45248,6 @@
         "uporabnik": "balazs-palko",
         "plezalec": "Balázs Palkó",
         "id": 9200
-    },
-    {
-        "uporabnik": "balazs-palko",
-        "plezalec": "Balázs Palkó",
-        "id": 9201
     },
     {
         "uporabnik": "marcel-mumel",
@@ -52083,11 +51323,6 @@
         "uporabnik": "gergo-vajoczki",
         "plezalec": "Gergo Vajoczki",
         "id": 10416
-    },
-    {
-        "uporabnik": "hrvoje-crnjak-71429",
-        "plezalec": "Hrvoje Crnjak",
-        "id": 10417
     },
     {
         "uporabnik": "miha-pancur",
@@ -61050,11 +60285,6 @@
         "id": 12209
     },
     {
-        "uporabnik": "sonia-hetmanczyk",
-        "plezalec": "Sonia Hetmanczyk",
-        "id": 12210
-    },
-    {
         "uporabnik": "zsofia-kimmel",
         "plezalec": "Zsofia Kimmel",
         "id": 12211
@@ -65027,11 +64257,6 @@
     {
         "uporabnik": "visko-kl",
         "plezalec": "visko kl",
-        "id": 13005
-    },
-    {
-        "uporabnik": "visko-kl",
-        "plezalec": "visko kl",
         "id": 13006
     },
     {
@@ -66590,16 +65815,6 @@
         "id": 13317
     },
     {
-        "uporabnik": "mihai-stanescu",
-        "plezalec": "Mihai STANESCU",
-        "id": 13318
-    },
-    {
-        "uporabnik": "mihai-stanescu",
-        "plezalec": "Mihai STANESCU",
-        "id": 13319
-    },
-    {
         "uporabnik": "trpimir-jakovina",
         "plezalec": "Trpimir Jakovina",
         "id": 13320
@@ -66705,11 +65920,6 @@
         "id": 13340
     },
     {
-        "uporabnik": "tatiana-shurubor-f",
-        "plezalec": "Tatiana Shurubor (f)",
-        "id": 13341
-    },
-    {
         "uporabnik": "mihai-stanescu",
         "plezalec": "Mihai STANESCU",
         "id": 13342
@@ -66798,11 +66008,6 @@
         "uporabnik": "barna-kerenyi",
         "plezalec": "Barna Kerényi",
         "id": 13359
-    },
-    {
-        "uporabnik": "barna-kerenyi",
-        "plezalec": "Barna Kerényi",
-        "id": 13360
     },
     {
         "uporabnik": "mihai-stanescu",
@@ -67302,11 +66507,6 @@
     {
         "uporabnik": "g-hz",
         "plezalec": "G Hz",
-        "id": 13460
-    },
-    {
-        "uporabnik": "g-hz",
-        "plezalec": "G Hz",
         "id": 13461
     },
     {
@@ -67685,11 +66885,6 @@
         "id": 13536
     },
     {
-        "uporabnik": "perica-levatic-xbwsw",
-        "plezalec": "Perica Levatić",
-        "id": 13537
-    },
-    {
         "uporabnik": "rok-blagus",
         "plezalec": "Rok Blagus",
         "id": 13538
@@ -67728,16 +66923,6 @@
         "uporabnik": "jurica-levatic-del04",
         "plezalec": "Jurica Levatic",
         "id": 13545
-    },
-    {
-        "uporabnik": "perica-levatic-xbwsw",
-        "plezalec": "Perica Levatić",
-        "id": 13546
-    },
-    {
-        "uporabnik": "perica-levatic-xbwsw",
-        "plezalec": "Perica Levatić",
-        "id": 13547
     },
     {
         "uporabnik": "ivana-balic",
@@ -67803,11 +66988,6 @@
         "uporabnik": "ivan-tomasek",
         "plezalec": "Ivan Tomasek",
         "id": 13560
-    },
-    {
-        "uporabnik": "ivan-tomasek",
-        "plezalec": "Ivan Tomasek",
-        "id": 13561
     },
     {
         "uporabnik": "silvijo-vuk-51661",
@@ -68028,11 +67208,6 @@
         "uporabnik": "sinisa-alavanja",
         "plezalec": "Sinisa Alavanja",
         "id": 13605
-    },
-    {
-        "uporabnik": "pavao-loncar",
-        "plezalec": "Pavao Loncar",
-        "id": 13606
     },
     {
         "uporabnik": "pavao-loncar",
@@ -68373,11 +67548,6 @@
         "uporabnik": "erdos-gabor",
         "plezalec": "Erdős Gabor",
         "id": 13674
-    },
-    {
-        "uporabnik": "erdos-gabor",
-        "plezalec": "Erdős Gabor",
-        "id": 13675
     },
     {
         "uporabnik": "peter-kis",
@@ -68810,16 +67980,6 @@
         "id": 13761
     },
     {
-        "uporabnik": "izer-balint",
-        "plezalec": "Izer Bálint",
-        "id": 13762
-    },
-    {
-        "uporabnik": "timon-kunter-ac4ls",
-        "plezalec": "Timon Kunter",
-        "id": 13763
-    },
-    {
         "uporabnik": "milan-vucinic",
         "plezalec": "Milan Vucinic",
         "id": 13764
@@ -68888,11 +68048,6 @@
         "uporabnik": "zoltan-lakatos",
         "plezalec": "Zoltán Lakatos",
         "id": 13777
-    },
-    {
-        "uporabnik": "bence-gats",
-        "plezalec": "Bence Gats",
-        "id": 13778
     },
     {
         "uporabnik": "viktor-szuhai",
@@ -69472,11 +68627,6 @@
     {
         "uporabnik": "viktor-szuhai",
         "plezalec": "Viktor Szuhai",
-        "id": 13894
-    },
-    {
-        "uporabnik": "viktor-szuhai",
-        "plezalec": "Viktor Szuhai",
         "id": 13895
     },
     {
@@ -69633,11 +68783,6 @@
         "uporabnik": "viktor-szuhai",
         "plezalec": "Viktor Szuhai",
         "id": 13926
-    },
-    {
-        "uporabnik": "viktor-szuhai",
-        "plezalec": "Viktor Szuhai",
-        "id": 13927
     },
     {
         "uporabnik": "viktor-szuhai",
@@ -69903,11 +69048,6 @@
         "uporabnik": "marton-fidy",
         "plezalec": "Marci Fidy",
         "id": 13980
-    },
-    {
-        "uporabnik": "balazs-benke",
-        "plezalec": "Balazs Benke",
-        "id": 13981
     },
     {
         "uporabnik": "balazs-benke",
@@ -70368,11 +69508,6 @@
         "uporabnik": "krisztina-rozsa",
         "plezalec": "Krisztina Rozsa",
         "id": 14073
-    },
-    {
-        "uporabnik": "marton-fidy",
-        "plezalec": "Marci Fidy",
-        "id": 14074
     },
     {
         "uporabnik": "bence-simon",
@@ -76330,11 +75465,6 @@
         "id": 15265
     },
     {
-        "uporabnik": "anej-kodele",
-        "plezalec": "Anej Kodele",
-        "id": 15266
-    },
-    {
         "uporabnik": "petra-dolar",
         "plezalec": "Petra Dolar",
         "id": 15267
@@ -76385,19 +75515,9 @@
         "id": 15276
     },
     {
-        "uporabnik": "saso-poglajen",
-        "plezalec": "Sašo Poglajen",
-        "id": 15277
-    },
-    {
         "uporabnik": "marko-divaca",
         "plezalec": "Marko Diva&amp;#269;a",
         "id": 15278
-    },
-    {
-        "uporabnik": "marko-divaca",
-        "plezalec": "Marko Diva&amp;#269;a",
-        "id": 15279
     },
     {
         "uporabnik": "marko-divaca",
@@ -76607,11 +75727,6 @@
     {
         "uporabnik": "christof-bernsteiner",
         "plezalec": "Christof Bernsteiner",
-        "id": 15321
-    },
-    {
-        "uporabnik": "christof-bernsteiner",
-        "plezalec": "Christof Bernsteiner",
         "id": 15322
     },
     {
@@ -76808,11 +75923,6 @@
         "uporabnik": "miha-pancur",
         "plezalec": "Miha Pancur",
         "id": 15361
-    },
-    {
-        "uporabnik": "martin-baurecht",
-        "plezalec": "Martin Baurecht",
-        "id": 15362
     },
     {
         "uporabnik": "betka-galicic-44050",
@@ -77272,11 +76382,6 @@
     {
         "uporabnik": "olga-annenkova",
         "plezalec": "Olga Annenkova",
-        "id": 15454
-    },
-    {
-        "uporabnik": "olga-annenkova",
-        "plezalec": "Olga Annenkova",
         "id": 15455
     },
     {
@@ -77393,11 +76498,6 @@
         "uporabnik": "alexey-orudzhev",
         "plezalec": "Alexey Orudzhev",
         "id": 15478
-    },
-    {
-        "uporabnik": "alexey-orudzhev",
-        "plezalec": "Alexey Orudzhev",
-        "id": 15479
     },
     {
         "uporabnik": "nikolay-dolnik",
@@ -78268,11 +77368,6 @@
         "uporabnik": "zan-kuralt",
         "plezalec": "Zan Kuralt",
         "id": 15653
-    },
-    {
-        "uporabnik": "zan-kuralt",
-        "plezalec": "Zan Kuralt",
-        "id": 15654
     },
     {
         "uporabnik": "saso-poglajen",
@@ -79147,11 +78242,6 @@
     {
         "uporabnik": "bla-sutlovic",
         "plezalec": "Bla Sutlovič",
-        "id": 15829
-    },
-    {
-        "uporabnik": "bla-sutlovic",
-        "plezalec": "Bla Sutlovič",
         "id": 15830
     },
     {
@@ -79792,17 +78882,7 @@
     {
         "uporabnik": "christian-winklmair",
         "plezalec": "Christian Winklmair",
-        "id": 15958
-    },
-    {
-        "uporabnik": "christian-winklmair",
-        "plezalec": "Christian Winklmair",
         "id": 15959
-    },
-    {
-        "uporabnik": "christian-winklmair",
-        "plezalec": "Christian Winklmair",
-        "id": 15960
     },
     {
         "uporabnik": "christian-winklmair",
@@ -81153,11 +80233,6 @@
         "uporabnik": "pieter-hubregtse",
         "plezalec": "Pieter Hubregtse",
         "id": 16230
-    },
-    {
-        "uporabnik": "alberto-pasini",
-        "plezalec": "Alberto Pasini",
-        "id": 16231
     },
     {
         "uporabnik": "primo-bratun",
@@ -84415,24 +83490,9 @@
         "id": 16882
     },
     {
-        "uporabnik": "ju-sch",
-        "plezalec": "Julian Träffer",
-        "id": 16883
-    },
-    {
-        "uporabnik": "ju-sch",
-        "plezalec": "Julian Träffer",
-        "id": 16884
-    },
-    {
         "uporabnik": "bartosz-pazola",
         "plezalec": "Bartosz Pazo&amp;#322;a",
         "id": 16885
-    },
-    {
-        "uporabnik": "ju-sch",
-        "plezalec": "Julian Träffer",
-        "id": 16886
     },
     {
         "uporabnik": "bartosz-pazola",
@@ -84663,16 +83723,6 @@
         "uporabnik": "jernej-vidmar",
         "plezalec": "Jernej Vidmar",
         "id": 16932
-    },
-    {
-        "uporabnik": "riky-vella",
-        "plezalec": "Riky Vella",
-        "id": 16933
-    },
-    {
-        "uporabnik": "jure-franko",
-        "plezalec": "Jure Franko",
-        "id": 16934
     },
     {
         "uporabnik": "jure-franko",
@@ -85288,11 +84338,6 @@
         "uporabnik": "stefano-turina",
         "plezalec": "Stefano Turina",
         "id": 17057
-    },
-    {
-        "uporabnik": "francesca-berardi",
-        "plezalec": "Francesca Berardi",
-        "id": 17058
     },
     {
         "uporabnik": "francesca-berardi",
@@ -87815,11 +86860,6 @@
         "id": 17562
     },
     {
-        "uporabnik": "user-deactivated-10239",
-        "plezalec": "User Deactivated",
-        "id": 17563
-    },
-    {
         "uporabnik": "martin-bombac",
         "plezalec": "Martin Bombac",
         "id": 17564
@@ -88537,11 +87577,6 @@
     {
         "uporabnik": "riky-vella",
         "plezalec": "Riky Vella",
-        "id": 17707
-    },
-    {
-        "uporabnik": "riky-vella",
-        "plezalec": "Riky Vella",
         "id": 17708
     },
     {
@@ -88818,11 +87853,6 @@
         "uporabnik": "luca-martin-7252",
         "plezalec": "luca martin",
         "id": 17763
-    },
-    {
-        "uporabnik": "federico-dallago",
-        "plezalec": "Federico Dallago",
-        "id": 17764
     },
     {
         "uporabnik": "dominik-hajduk",
@@ -90258,11 +89288,6 @@
         "uporabnik": "otto-schapendonk",
         "plezalec": "Otto Schapendonk",
         "id": 18051
-    },
-    {
-        "uporabnik": "otto-schapendonk",
-        "plezalec": "Otto Schapendonk",
-        "id": 18052
     },
     {
         "uporabnik": "otto-schapendonk",
@@ -97780,11 +96805,6 @@
         "id": 19555
     },
     {
-        "uporabnik": "bor-zupan",
-        "plezalec": "Bor Zupan",
-        "id": 19556
-    },
-    {
         "uporabnik": "peter-mastnak-sokolov",
         "plezalec": "Peter Mastnak-Sokolov",
         "id": 19557
@@ -99152,11 +98172,6 @@
     {
         "uporabnik": "iga-oraem",
         "plezalec": "iga Oraem",
-        "id": 19830
-    },
-    {
-        "uporabnik": "iga-oraem",
-        "plezalec": "iga Oraem",
         "id": 19831
     },
     {
@@ -99288,11 +98303,6 @@
         "uporabnik": "saso-poglajen",
         "plezalec": "Sašo Poglajen",
         "id": 19857
-    },
-    {
-        "uporabnik": "saso-poglajen",
-        "plezalec": "Sašo Poglajen",
-        "id": 19858
     },
     {
         "uporabnik": "saso-poglajen",
@@ -100323,11 +99333,6 @@
         "uporabnik": "rajko-zajc",
         "plezalec": "Rajko Zajc",
         "id": 20064
-    },
-    {
-        "uporabnik": "rajko-zajc",
-        "plezalec": "Rajko Zajc",
-        "id": 20065
     },
     {
         "uporabnik": "rajko-zajc",
@@ -102118,11 +101123,6 @@
         "uporabnik": "saso-poglajen",
         "plezalec": "Sašo Poglajen",
         "id": 20423
-    },
-    {
-        "uporabnik": "saso-poglajen",
-        "plezalec": "Sašo Poglajen",
-        "id": 20424
     },
     {
         "uporabnik": "saso-poglajen",
@@ -105205,16 +104205,6 @@
         "id": 21040
     },
     {
-        "uporabnik": "malik-matika",
-        "plezalec": "Malik Matika",
-        "id": 21041
-    },
-    {
-        "uporabnik": "malik-matika",
-        "plezalec": "Malik Matika",
-        "id": 21042
-    },
-    {
         "uporabnik": "marco-nizzoli",
         "plezalec": "Marco Nizzoli",
         "id": 21043
@@ -106582,11 +105572,6 @@
     {
         "uporabnik": "iga-oraem",
         "plezalec": "iga Oraem",
-        "id": 21316
-    },
-    {
-        "uporabnik": "iga-oraem",
-        "plezalec": "iga Oraem",
         "id": 21317
     },
     {
@@ -106648,11 +105633,6 @@
         "uporabnik": "luka-pavlovcic",
         "plezalec": "Luka Pavlovcic",
         "id": 21329
-    },
-    {
-        "uporabnik": "adam-harrison",
-        "plezalec": "Adam Harrison",
-        "id": 21330
     },
     {
         "uporabnik": "adam-harrison",
@@ -107023,11 +106003,6 @@
         "uporabnik": "janko-domitrovic",
         "plezalec": "Janko Domitrovič",
         "id": 21404
-    },
-    {
-        "uporabnik": "jakob-bizjak",
-        "plezalec": "Jakob Bizjak",
-        "id": 21405
     },
     {
         "uporabnik": "jakob-bizjak",
@@ -107890,11 +106865,6 @@
         "id": 21577
     },
     {
-        "uporabnik": "dominik-fon",
-        "plezalec": "Dominik Fon",
-        "id": 21578
-    },
-    {
         "uporabnik": "miha-pancur",
         "plezalec": "Miha Pancur",
         "id": 21579
@@ -108300,11 +107270,6 @@
         "id": 21659
     },
     {
-        "uporabnik": "gaper-pintar",
-        "plezalec": "Gaper Pintar",
-        "id": 21660
-    },
-    {
         "uporabnik": "jakob-parovec",
         "plezalec": "Jakob parovec",
         "id": 21661
@@ -108618,11 +107583,6 @@
         "uporabnik": "markus-bittendorfer",
         "plezalec": "Markus Bittendorfer",
         "id": 21723
-    },
-    {
-        "uporabnik": "iga-oraem",
-        "plezalec": "iga Oraem",
-        "id": 21724
     },
     {
         "uporabnik": "martin-bombac",
@@ -109088,11 +108048,6 @@
         "uporabnik": "marko-sturm",
         "plezalec": "Marko Sturm",
         "id": 21817
-    },
-    {
-        "uporabnik": "matteo-humar",
-        "plezalec": "Matteo Humar",
-        "id": 21818
     },
     {
         "uporabnik": "urban-azman",
@@ -110605,16 +109560,6 @@
         "id": 22120
     },
     {
-        "uporabnik": "tamas-boldogh",
-        "plezalec": "tamas boldogh",
-        "id": 22121
-    },
-    {
-        "uporabnik": "tamas-boldogh",
-        "plezalec": "tamas boldogh",
-        "id": 22122
-    },
-    {
         "uporabnik": "valentin-mak",
         "plezalec": "valentin mak",
         "id": 22123
@@ -110623,11 +109568,6 @@
         "uporabnik": "valentin-mak",
         "plezalec": "valentin mak",
         "id": 22124
-    },
-    {
-        "uporabnik": "christian-preschern",
-        "plezalec": "Christian Preschern",
-        "id": 22125
     },
     {
         "uporabnik": "rajko-zajc",
@@ -110882,16 +109822,6 @@
     {
         "uporabnik": "felix-cantalapiedra",
         "plezalec": "Felix Cantalapiedra",
-        "id": 22176
-    },
-    {
-        "uporabnik": "felix-cantalapiedra",
-        "plezalec": "Felix Cantalapiedra",
-        "id": 22177
-    },
-    {
-        "uporabnik": "felix-cantalapiedra",
-        "plezalec": "Felix Cantalapiedra",
         "id": 22178
     },
     {
@@ -111083,11 +110013,6 @@
         "uporabnik": "michael-thomas-jurman",
         "plezalec": "Michael-Thomas Jurman",
         "id": 22216
-    },
-    {
-        "uporabnik": "urban-azman",
-        "plezalec": "Urban Azman",
-        "id": 22217
     },
     {
         "uporabnik": "jurica-levatic-del04",
@@ -111678,11 +110603,6 @@
         "uporabnik": "boris-cujic",
         "plezalec": "Boris Čujić",
         "id": 22335
-    },
-    {
-        "uporabnik": "franz-fackler",
-        "plezalec": "Franz Fackler",
-        "id": 22336
     },
     {
         "uporabnik": "franz-fackler",
@@ -114025,11 +112945,6 @@
         "id": 22804
     },
     {
-        "uporabnik": "dominik-fon",
-        "plezalec": "Dominik Fon",
-        "id": 22805
-    },
-    {
         "uporabnik": "nina-faganel-f",
         "plezalec": "Nina Faganel (f)",
         "id": 22806
@@ -115105,11 +114020,6 @@
         "id": 23020
     },
     {
-        "uporabnik": "gaper-pintar",
-        "plezalec": "Gaper Pintar",
-        "id": 23021
-    },
-    {
         "uporabnik": "borut-rus",
         "plezalec": "Borut Rus",
         "id": 23022
@@ -115118,11 +114028,6 @@
         "uporabnik": "nina-faganel-f",
         "plezalec": "Nina Faganel (f)",
         "id": 23023
-    },
-    {
-        "uporabnik": "urban-azman",
-        "plezalec": "Urban Azman",
-        "id": 23024
     },
     {
         "uporabnik": "aleksandar-mataruga",
@@ -116828,11 +115733,6 @@
         "uporabnik": "katarina-rus-f",
         "plezalec": "Katarina Rus",
         "id": 23365
-    },
-    {
-        "uporabnik": "jan-borko",
-        "plezalec": "Jan Borko",
-        "id": 23366
     },
     {
         "uporabnik": "ziga-erman",
@@ -119960,11 +118860,6 @@
         "id": 23991
     },
     {
-        "uporabnik": "martin-bombac",
-        "plezalec": "Martin Bombac",
-        "id": 23992
-    },
-    {
         "uporabnik": "betka-galicic-44050",
         "plezalec": "Betka Galicic",
         "id": 23993
@@ -120123,11 +119018,6 @@
         "uporabnik": "dominik-fon",
         "plezalec": "Dominik Fon",
         "id": 24024
-    },
-    {
-        "uporabnik": "dominik-fon",
-        "plezalec": "Dominik Fon",
-        "id": 24025
     },
     {
         "uporabnik": "jure-franko",
@@ -120398,11 +119288,6 @@
         "uporabnik": "miha-pancur",
         "plezalec": "Miha Pancur",
         "id": 24079
-    },
-    {
-        "uporabnik": "miha-pancur",
-        "plezalec": "Miha Pancur",
-        "id": 24080
     },
     {
         "uporabnik": "miha-pancur",
@@ -121445,11 +120330,6 @@
         "id": 24288
     },
     {
-        "uporabnik": "primo-bratun",
-        "plezalec": "User Deactivated",
-        "id": 24289
-    },
-    {
         "uporabnik": "martin-bombac",
         "plezalec": "Martin Bombac",
         "id": 24290
@@ -121595,11 +120475,6 @@
         "id": 24318
     },
     {
-        "uporabnik": "iga-oraem",
-        "plezalec": "iga Oraem",
-        "id": 24319
-    },
-    {
         "uporabnik": "rajko-zajc",
         "plezalec": "Rajko Zajc",
         "id": 24320
@@ -121638,11 +120513,6 @@
         "uporabnik": "jernej-vidmar",
         "plezalec": "Jernej Vidmar",
         "id": 24327
-    },
-    {
-        "uporabnik": "iga-oraem",
-        "plezalec": "iga Oraem",
-        "id": 24328
     },
     {
         "uporabnik": "gergely-kismarczi",
@@ -121738,11 +120608,6 @@
         "uporabnik": "gaper-pintar",
         "plezalec": "Gaper Pintar",
         "id": 24347
-    },
-    {
-        "uporabnik": "gaper-pintar",
-        "plezalec": "Gaper Pintar",
-        "id": 24348
     },
     {
         "uporabnik": "gaper-pintar",
@@ -123962,11 +122827,6 @@
     {
         "uporabnik": "ivan-tomasek",
         "plezalec": "Ivan Tomasek",
-        "id": 24792
-    },
-    {
-        "uporabnik": "ivan-tomasek",
-        "plezalec": "Ivan Tomasek",
         "id": 24793
     },
     {
@@ -126170,11 +125030,6 @@
         "id": 25233
     },
     {
-        "uporabnik": "bjoern-bergmark",
-        "plezalec": "Bjoern Bergmark",
-        "id": 25234
-    },
-    {
         "uporabnik": "maja-sustar-f",
         "plezalec": "Maja Sustar (f)",
         "id": 25235
@@ -126578,11 +125433,6 @@
         "uporabnik": "stefan-wraber",
         "plezalec": "Stefan Wraber",
         "id": 25315
-    },
-    {
-        "uporabnik": "rok-rokar",
-        "plezalec": "Rok Rokar",
-        "id": 25316
     },
     {
         "uporabnik": "uros-pavlic-6749",
@@ -127733,11 +126583,6 @@
         "uporabnik": "luca-visintin-77238",
         "plezalec": "Luca Visintin",
         "id": 25546
-    },
-    {
-        "uporabnik": "marko-sturm",
-        "plezalec": "Marko Sturm",
-        "id": 25547
     },
     {
         "uporabnik": "lucija-tarkus",
@@ -128900,11 +127745,6 @@
         "id": 25779
     },
     {
-        "uporabnik": "marko-mlakar",
-        "plezalec": "marko mlakar",
-        "id": 25780
-    },
-    {
         "uporabnik": "mojca-zerjav-f",
         "plezalec": "Mojca Zerjav (f)",
         "id": 25781
@@ -129008,11 +127848,6 @@
         "uporabnik": "martin-bombac",
         "plezalec": "Martin Bombac",
         "id": 25801
-    },
-    {
-        "uporabnik": "miha-britovsek-15807",
-        "plezalec": "miha britovsek",
-        "id": 25802
     },
     {
         "uporabnik": "gaper-pintar",
@@ -134255,11 +133090,6 @@
         "id": 26850
     },
     {
-        "uporabnik": "jakob-parovec",
-        "plezalec": "Jakob parovec",
-        "id": 26851
-    },
-    {
         "uporabnik": "bartosz-dittmar",
         "plezalec": "Bartosz Dittmar",
         "id": 26852
@@ -134283,11 +133113,6 @@
         "uporabnik": "piotr-wiciak",
         "plezalec": "Piotr Wiciak",
         "id": 26856
-    },
-    {
-        "uporabnik": "piotr-wiciak",
-        "plezalec": "Piotr Wiciak",
-        "id": 26857
     },
     {
         "uporabnik": "paula-wiciak",
@@ -134770,11 +133595,6 @@
         "id": 26953
     },
     {
-        "uporabnik": "janez-franc-vratanar",
-        "plezalec": "Janez Franc Vratanar",
-        "id": 26954
-    },
-    {
         "uporabnik": "borut-rus",
         "plezalec": "Borut Rus",
         "id": 26955
@@ -134963,11 +133783,6 @@
         "uporabnik": "gaper-pintar",
         "plezalec": "Gaper Pintar",
         "id": 26992
-    },
-    {
-        "uporabnik": "gaper-pintar",
-        "plezalec": "Gaper Pintar",
-        "id": 26993
     },
     {
         "uporabnik": "gaper-pintar",
@@ -135323,11 +134138,6 @@
         "uporabnik": "nace-pavc-pifo",
         "plezalec": "Nace Pavc Pifo",
         "id": 27064
-    },
-    {
-        "uporabnik": "urban-azman",
-        "plezalec": "Urban Azman",
-        "id": 27065
     },
     {
         "uporabnik": "janez-miklavcic",
@@ -136017,11 +134827,6 @@
     {
         "uporabnik": "gaber-avsec-64415",
         "plezalec": "Gaber Avsec",
-        "id": 27203
-    },
-    {
-        "uporabnik": "gaber-avsec-64415",
-        "plezalec": "Gaber Avsec",
         "id": 27204
     },
     {
@@ -136265,11 +135070,6 @@
         "id": 27252
     },
     {
-        "uporabnik": "lucija-veber",
-        "plezalec": "Lucija Veber",
-        "id": 27253
-    },
-    {
         "uporabnik": "stefan-wraber",
         "plezalec": "Stefan Wraber",
         "id": 27254
@@ -136468,11 +135268,6 @@
         "uporabnik": "matej-sova-u3407",
         "plezalec": "Matej Sova",
         "id": 27293
-    },
-    {
-        "uporabnik": "ziga-sedej",
-        "plezalec": "Žiga Sedej",
-        "id": 27294
     },
     {
         "uporabnik": "nino-jakic",
@@ -137200,11 +135995,6 @@
         "id": 27439
     },
     {
-        "uporabnik": "luc-comuzzi",
-        "plezalec": "Luc Comuzzi",
-        "id": 27440
-    },
-    {
         "uporabnik": "sasa-sedlar",
         "plezalec": "Saša Sedlar (f)",
         "id": 27441
@@ -137267,22 +136057,12 @@
     {
         "uporabnik": "matteo-humar",
         "plezalec": "Matteo Humar",
-        "id": 27453
-    },
-    {
-        "uporabnik": "matteo-humar",
-        "plezalec": "Matteo Humar",
         "id": 27454
     },
     {
         "uporabnik": "vito-muzevic",
         "plezalec": "Vito Muzevic",
         "id": 27455
-    },
-    {
-        "uporabnik": "lucia-lorenzi",
-        "plezalec": "Lucia Lorenzi",
-        "id": 27456
     },
     {
         "uporabnik": "stefano-capato",
@@ -137408,11 +136188,6 @@
         "uporabnik": "luca-de-demo-b5ftl",
         "plezalec": "Luca De Demo",
         "id": 27481
-    },
-    {
-        "uporabnik": "bla-sutlovic",
-        "plezalec": "Bla Sutlovič",
-        "id": 27482
     },
     {
         "uporabnik": "rok-repek",
@@ -137625,16 +136400,6 @@
         "id": 27524
     },
     {
-        "uporabnik": "matteo-humar",
-        "plezalec": "Matteo Humar",
-        "id": 27525
-    },
-    {
-        "uporabnik": "saso-poglajen",
-        "plezalec": "Sašo Poglajen",
-        "id": 27526
-    },
-    {
         "uporabnik": "saso-poglajen",
         "plezalec": "Sašo Poglajen",
         "id": 27527
@@ -137842,11 +136607,6 @@
     {
         "uporabnik": "perica-levatic-xbwsw",
         "plezalec": "Perica Levatić",
-        "id": 27568
-    },
-    {
-        "uporabnik": "perica-levatic-xbwsw",
-        "plezalec": "Perica Levatić",
         "id": 27569
     },
     {
@@ -137873,11 +136633,6 @@
         "uporabnik": "goran-matika",
         "plezalec": "Goran Matika",
         "id": 27574
-    },
-    {
-        "uporabnik": "goran-matika",
-        "plezalec": "Goran Matika",
-        "id": 27575
     },
     {
         "uporabnik": "luka-zazvonil",
@@ -138043,11 +136798,6 @@
         "uporabnik": "eva-scroccaro-f",
         "plezalec": "Eva Scroccaro (f)",
         "id": 27608
-    },
-    {
-        "uporabnik": "matteo-sangalli",
-        "plezalec": "Matteo Sangalli",
-        "id": 27609
     },
     {
         "uporabnik": "ziga-sedej",
@@ -138262,11 +137012,6 @@
     {
         "uporabnik": "stefano-capato",
         "plezalec": "Stefano K. Capato",
-        "id": 27652
-    },
-    {
-        "uporabnik": "stefano-capato",
-        "plezalec": "Stefano K. Capato",
         "id": 27653
     },
     {
@@ -138342,27 +137087,12 @@
     {
         "uporabnik": "user-deactivated-33251",
         "plezalec": "User Deactivated",
-        "id": 27668
-    },
-    {
-        "uporabnik": "user-deactivated-33251",
-        "plezalec": "User Deactivated",
         "id": 27669
-    },
-    {
-        "uporabnik": "user-deactivated-33251",
-        "plezalec": "User Deactivated",
-        "id": 27670
     },
     {
         "uporabnik": "stefano-capato",
         "plezalec": "Stefano K. Capato",
         "id": 27671
-    },
-    {
-        "uporabnik": "stefano-capato",
-        "plezalec": "Stefano K. Capato",
-        "id": 27672
     },
     {
         "uporabnik": "stefano-capato",
@@ -138402,17 +137132,7 @@
     {
         "uporabnik": "borna-cujic",
         "plezalec": "Borna Cujic",
-        "id": 27680
-    },
-    {
-        "uporabnik": "borna-cujic",
-        "plezalec": "Borna Cujic",
         "id": 27681
-    },
-    {
-        "uporabnik": "stefano-capato",
-        "plezalec": "Stefano K. Capato",
-        "id": 27682
     },
     {
         "uporabnik": "stefano-capato",
@@ -138573,11 +137293,6 @@
         "uporabnik": "janez-miklavcic",
         "plezalec": "Janez Miklavčič",
         "id": 27714
-    },
-    {
-        "uporabnik": "janez-miklavcic",
-        "plezalec": "Janez Miklavčič",
-        "id": 27715
     },
     {
         "uporabnik": "gaper-pintar",
@@ -138788,11 +137503,6 @@
         "uporabnik": "borut-lenc",
         "plezalec": "Borut lenc",
         "id": 27757
-    },
-    {
-        "uporabnik": "tilen-cernigoj",
-        "plezalec": "Tilen Černigoj",
-        "id": 27758
     },
     {
         "uporabnik": "matic-obid",
@@ -140470,11 +139180,6 @@
         "id": 28093
     },
     {
-        "uporabnik": "peter-janeic",
-        "plezalec": "Peter Janeič",
-        "id": 28094
-    },
-    {
         "uporabnik": "jakob-ogrin",
         "plezalec": "Piki Jakob",
         "id": 28095
@@ -140640,11 +139345,6 @@
         "id": 28127
     },
     {
-        "uporabnik": "nace-pavc-pifo",
-        "plezalec": "Nace Pavc Pifo",
-        "id": 28128
-    },
-    {
         "uporabnik": "igor-salkovic",
         "plezalec": "Igor Salkovic",
         "id": 28129
@@ -140778,11 +139478,6 @@
         "uporabnik": "nina-faganel-f",
         "plezalec": "Nina Faganel (f)",
         "id": 28155
-    },
-    {
-        "uporabnik": "primo-arh",
-        "plezalec": "Primo Arh",
-        "id": 28156
     },
     {
         "uporabnik": "bozidar-peklenik",
@@ -142708,11 +141403,6 @@
         "uporabnik": "miha-pancur",
         "plezalec": "Miha Pancur",
         "id": 28541
-    },
-    {
-        "uporabnik": "ane-varga",
-        "plezalec": "Ane Varga",
-        "id": 28542
     },
     {
         "uporabnik": "ane-varga",
@@ -145100,11 +143790,6 @@
         "id": 29019
     },
     {
-        "uporabnik": "raphael-berger-8pbwe",
-        "plezalec": "Raphael Berger",
-        "id": 29020
-    },
-    {
         "uporabnik": "andrej-mady",
         "plezalec": "Andrej Mady",
         "id": 29021
@@ -146765,11 +145450,6 @@
         "id": 29352
     },
     {
-        "uporabnik": "markus-guggenberger",
-        "plezalec": "markus guggenberger",
-        "id": 29353
-    },
-    {
         "uporabnik": "bor-savnik",
         "plezalec": "Bor  Savnik",
         "id": 29354
@@ -146853,11 +145533,6 @@
         "uporabnik": "bor-savnik",
         "plezalec": "Bor  Savnik",
         "id": 29370
-    },
-    {
-        "uporabnik": "goran-matika",
-        "plezalec": "Goran Matika",
-        "id": 29371
     },
     {
         "uporabnik": "goran-matika",
@@ -148477,11 +147152,6 @@
     {
         "uporabnik": "yannicke-goris",
         "plezalec": "yannicke goris",
-        "id": 29695
-    },
-    {
-        "uporabnik": "yannicke-goris",
-        "plezalec": "yannicke goris",
         "id": 29696
     },
     {
@@ -149133,16 +147803,6 @@
         "uporabnik": "patrick-petje-coenen",
         "plezalec": "Patrick 'Petje' Coenen",
         "id": 29826
-    },
-    {
-        "uporabnik": "jimmy-norlen-5397",
-        "plezalec": "Jimmy Norlen",
-        "id": 29827
-    },
-    {
-        "uporabnik": "jimmy-norlen-5397",
-        "plezalec": "Jimmy Norlen",
-        "id": 29828
     },
     {
         "uporabnik": "jimmy-norlen-5397",
@@ -149977,11 +148637,6 @@
     {
         "uporabnik": "dariusz-pawlak",
         "plezalec": "Dariusz Pawlak",
-        "id": 29995
-    },
-    {
-        "uporabnik": "dariusz-pawlak",
-        "plezalec": "Dariusz Pawlak",
         "id": 29996
     },
     {
@@ -150522,11 +149177,6 @@
     {
         "uporabnik": "renato-pinheiro",
         "plezalec": "Renato Pinheiro",
-        "id": 30104
-    },
-    {
-        "uporabnik": "renato-pinheiro",
-        "plezalec": "Renato Pinheiro",
         "id": 30105
     },
     {
@@ -150545,11 +149195,6 @@
         "id": 30108
     },
     {
-        "uporabnik": "jorge-sharma-duarte",
-        "plezalec": "Jorge &quot;sharma&quot; Duarte",
-        "id": 30109
-    },
-    {
         "uporabnik": "pedro-gomes",
         "plezalec": "Pedro Gomes",
         "id": 30110
@@ -150558,11 +149203,6 @@
         "uporabnik": "pedro-gomes",
         "plezalec": "Pedro Gomes",
         "id": 30111
-    },
-    {
-        "uporabnik": "pedro-gomes",
-        "plezalec": "Pedro Gomes",
-        "id": 30112
     },
     {
         "uporabnik": "nace-pavc-pifo",
@@ -152657,11 +151297,6 @@
     {
         "uporabnik": "ana-senegacnik-kurnik",
         "plezalec": "Ana Senegacnik Kurnik",
-        "id": 30531
-    },
-    {
-        "uporabnik": "ana-senegacnik-kurnik",
-        "plezalec": "Ana Senegacnik Kurnik",
         "id": 30532
     },
     {
@@ -152885,11 +151520,6 @@
         "id": 30576
     },
     {
-        "uporabnik": "ana-senegacnik-kurnik",
-        "plezalec": "Ana Senegacnik Kurnik",
-        "id": 30577
-    },
-    {
         "uporabnik": "saso-poglajen",
         "plezalec": "Sašo Poglajen",
         "id": 30578
@@ -153103,16 +151733,6 @@
         "uporabnik": "ana-senegacnik-kurnik",
         "plezalec": "Ana Senegacnik Kurnik",
         "id": 30620
-    },
-    {
-        "uporabnik": "ana-senegacnik-kurnik",
-        "plezalec": "Ana Senegacnik Kurnik",
-        "id": 30621
-    },
-    {
-        "uporabnik": "ana-senegacnik-kurnik",
-        "plezalec": "Ana Senegacnik Kurnik",
-        "id": 30622
     },
     {
         "uporabnik": "rajko-zajc",
@@ -157875,11 +156495,6 @@
         "id": 31574
     },
     {
-        "uporabnik": "enna-peros",
-        "plezalec": "Enna Peroš",
-        "id": 31575
-    },
-    {
         "uporabnik": "milan-preskar",
         "plezalec": "Milan Preskar",
         "id": 31576
@@ -158963,11 +157578,6 @@
         "uporabnik": "anej-kodele",
         "plezalec": "Anej Kodele",
         "id": 31792
-    },
-    {
-        "uporabnik": "anej-kodele",
-        "plezalec": "Anej Kodele",
-        "id": 31793
     },
     {
         "uporabnik": "anej-kodele",
@@ -160863,11 +159473,6 @@
         "uporabnik": "pavao-loncar",
         "plezalec": "Pavao Loncar",
         "id": 32172
-    },
-    {
-        "uporabnik": "roland-zingg",
-        "plezalec": "Roland Zingg",
-        "id": 32173
     },
     {
         "uporabnik": "pavao-loncar",
@@ -166642,11 +165247,6 @@
     {
         "uporabnik": "matteo-humar",
         "plezalec": "Matteo Humar",
-        "id": 33328
-    },
-    {
-        "uporabnik": "matteo-humar",
-        "plezalec": "Matteo Humar",
         "id": 33329
     },
     {
@@ -166728,11 +165328,6 @@
         "uporabnik": "katja-kadic",
         "plezalec": "Katja Kadić",
         "id": 33345
-    },
-    {
-        "uporabnik": "yasna-bozic",
-        "plezalec": "YaSs Na",
-        "id": 33346
     },
     {
         "uporabnik": "yasna-bozic",
@@ -166890,11 +165485,6 @@
         "id": 33377
     },
     {
-        "uporabnik": "enna-peros",
-        "plezalec": "Enna Peroš",
-        "id": 33378
-    },
-    {
         "uporabnik": "gianfranco-dusic",
         "plezalec": "Gianfranco Dusic",
         "id": 33379
@@ -166903,11 +165493,6 @@
         "uporabnik": "goran-matika",
         "plezalec": "Goran Matika",
         "id": 33380
-    },
-    {
-        "uporabnik": "enna-peros",
-        "plezalec": "Enna Peroš",
-        "id": 33381
     },
     {
         "uporabnik": "gianfranco-dusic",
@@ -166940,16 +165525,6 @@
         "id": 33387
     },
     {
-        "uporabnik": "petra-kandija",
-        "plezalec": "Petra Kandija",
-        "id": 33388
-    },
-    {
-        "uporabnik": "petra-kandija",
-        "plezalec": "Petra Kandija",
-        "id": 33389
-    },
-    {
         "uporabnik": "gianfranco-dusic",
         "plezalec": "Gianfranco Dusic",
         "id": 33390
@@ -166975,16 +165550,6 @@
         "id": 33394
     },
     {
-        "uporabnik": "matteo-humar",
-        "plezalec": "Matteo Humar",
-        "id": 33395
-    },
-    {
-        "uporabnik": "matteo-humar",
-        "plezalec": "Matteo Humar",
-        "id": 33396
-    },
-    {
         "uporabnik": "klemen-kejzar",
         "plezalec": "Klemen Kejžar",
         "id": 33397
@@ -167003,16 +165568,6 @@
         "uporabnik": "jernej-kruder",
         "plezalec": "Jernej Kruder",
         "id": 33400
-    },
-    {
-        "uporabnik": "marko-bratina",
-        "plezalec": "Marko Bratina",
-        "id": 33401
-    },
-    {
-        "uporabnik": "marko-bratina",
-        "plezalec": "Marko Bratina",
-        "id": 33402
     },
     {
         "uporabnik": "nejc-peljhan",
@@ -167063,11 +165618,6 @@
         "uporabnik": "ana-ogrinc-f",
         "plezalec": "Ana Ogrinc (f)",
         "id": 33412
-    },
-    {
-        "uporabnik": "jernej-kruder",
-        "plezalec": "Jernej Kruder",
-        "id": 33413
     },
     {
         "uporabnik": "user-deactivated-14502",
@@ -168747,11 +167297,6 @@
     {
         "uporabnik": "anej-kodele",
         "plezalec": "Anej Kodele",
-        "id": 33749
-    },
-    {
-        "uporabnik": "anej-kodele",
-        "plezalec": "Anej Kodele",
         "id": 33750
     },
     {
@@ -168858,11 +167403,6 @@
         "uporabnik": "stefano-capato",
         "plezalec": "Stefano K. Capato",
         "id": 33771
-    },
-    {
-        "uporabnik": "stefano-capato",
-        "plezalec": "Stefano K. Capato",
-        "id": 33772
     },
     {
         "uporabnik": "rok-blagus",
@@ -169978,11 +168518,6 @@
         "uporabnik": "miha-pancur",
         "plezalec": "Miha Pancur",
         "id": 33995
-    },
-    {
-        "uporabnik": "saso-poglajen",
-        "plezalec": "Sašo Poglajen",
-        "id": 33996
     },
     {
         "uporabnik": "alen-majcan",
@@ -171388,11 +169923,6 @@
         "uporabnik": "jaka-sprah",
         "plezalec": "Jaka Šprah",
         "id": 34277
-    },
-    {
-        "uporabnik": "valentin-mak",
-        "plezalec": "valentin mak",
-        "id": 34278
     },
     {
         "uporabnik": "martin-bombac",
@@ -177145,11 +175675,6 @@
         "id": 35428
     },
     {
-        "uporabnik": "gorazd-hren",
-        "plezalec": "Gorazd Hren",
-        "id": 35429
-    },
-    {
         "uporabnik": "saso-poglajen",
         "plezalec": "Sašo Poglajen",
         "id": 35430
@@ -177603,11 +176128,6 @@
         "uporabnik": "saso-poglajen",
         "plezalec": "Sašo Poglajen",
         "id": 35520
-    },
-    {
-        "uporabnik": "saso-poglajen",
-        "plezalec": "Sašo Poglajen",
-        "id": 35521
     },
     {
         "uporabnik": "saso-poglajen",
@@ -179187,11 +177707,6 @@
     {
         "uporabnik": "saso-poglajen",
         "plezalec": "Sašo Poglajen",
-        "id": 35837
-    },
-    {
-        "uporabnik": "saso-poglajen",
-        "plezalec": "Sašo Poglajen",
         "id": 35838
     },
     {
@@ -179722,11 +178237,6 @@
     {
         "uporabnik": "saso-poglajen",
         "plezalec": "Sašo Poglajen",
-        "id": 35944
-    },
-    {
-        "uporabnik": "saso-poglajen",
-        "plezalec": "Sašo Poglajen",
         "id": 35945
     },
     {
@@ -179943,11 +178453,6 @@
         "uporabnik": "user-deactivated-14497",
         "plezalec": "User Deactivated",
         "id": 35988
-    },
-    {
-        "uporabnik": "nina-topic",
-        "plezalec": "Nina Topic",
-        "id": 35989
     },
     {
         "uporabnik": "cikic-cedomir",
@@ -180298,11 +178803,6 @@
         "uporabnik": "ziga-sedej",
         "plezalec": "Žiga Sedej",
         "id": 36059
-    },
-    {
-        "uporabnik": "ziga-sedej",
-        "plezalec": "Žiga Sedej",
-        "id": 36060
     },
     {
         "uporabnik": "ziga-sedej",
@@ -180975,11 +179475,6 @@
         "id": 36194
     },
     {
-        "uporabnik": "matteo-humar",
-        "plezalec": "Matteo Humar",
-        "id": 36195
-    },
-    {
         "uporabnik": "bor-savnik",
         "plezalec": "Bor  Savnik",
         "id": 36196
@@ -181493,11 +179988,6 @@
         "uporabnik": "nurisso-luca",
         "plezalec": "Nurisso Luca",
         "id": 36298
-    },
-    {
-        "uporabnik": "nurisso-luca",
-        "plezalec": "Nurisso Luca",
-        "id": 36299
     },
     {
         "uporabnik": "bor-savnik",
@@ -184883,11 +183373,6 @@
         "uporabnik": "ana-senegacnik-kurnik",
         "plezalec": "Ana Senegacnik Kurnik",
         "id": 36976
-    },
-    {
-        "uporabnik": "ana-senegacnik-kurnik",
-        "plezalec": "Ana Senegacnik Kurnik",
-        "id": 36977
     },
     {
         "uporabnik": "borut-rus",
@@ -189590,16 +188075,6 @@
         "id": 37917
     },
     {
-        "uporabnik": "user-deactivated-26765",
-        "plezalec": "User Deactivated",
-        "id": 37918
-    },
-    {
-        "uporabnik": "user-deactivated-26765",
-        "plezalec": "User Deactivated",
-        "id": 37919
-    },
-    {
         "uporabnik": "jaka-sprah",
         "plezalec": "Jaka Šprah",
         "id": 37920
@@ -190828,11 +189303,6 @@
         "uporabnik": "ana-senegacnik-kurnik",
         "plezalec": "Ana Senegacnik Kurnik",
         "id": 38165
-    },
-    {
-        "uporabnik": "ana-senegacnik-kurnik",
-        "plezalec": "Ana Senegacnik Kurnik",
-        "id": 38166
     },
     {
         "uporabnik": "ana-senegacnik-kurnik",
@@ -192373,16 +190843,6 @@
         "uporabnik": "alexander-weissmann-59197",
         "plezalec": "Alexander Weissmann",
         "id": 38474
-    },
-    {
-        "uporabnik": "alexander-weissmann-59197",
-        "plezalec": "Alexander Weissmann",
-        "id": 38475
-    },
-    {
-        "uporabnik": "jure-franko",
-        "plezalec": "Jure Franko",
-        "id": 38476
     },
     {
         "uporabnik": "gabrielesbisighin-gorobey",
